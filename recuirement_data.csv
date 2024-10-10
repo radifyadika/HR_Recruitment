@@ -1,0 +1,1501 @@
+Age,Gender,EducationLevel,ExperienceYears,PreviousCompanies,DistanceFromCompany,SkillScore,PersonalityScore,RecruitmentStrategy,Decision
+26,Female,Bachelor's,0,3,26.78382755,78,91,Aggressive,Potential
+39,Female,PhD,12,3,25.86269433,68,80,Moderate,Potential
+48,Male,Bachelor's,3,2,9.920804828,67,13,Moderate,Not Potential
+34,Female,Bachelor's,5,2,6.407750729,27,70,Conservative,Not Potential
+30,Male,Diploma's,6,1,43.10534312,52,85,Moderate,Not Potential
+27,Male,Master's,14,4,31.70665881,50,50,Aggressive,Potential
+48,Male,Bachelor's,6,1,17.2912292,52,64,Conservative,Not Potential
+40,Male,PhD,13,3,10.58681087,3,92,Conservative,Not Potential
+26,Female,Master's,6,5,28.77486401,78,51,Aggressive,Potential
+45,Female,Bachelor's,2,5,30.19596446,16,94,Conservative,Not Potential
+38,Female,Diploma's,15,2,11.34968006,66,29,Moderate,Not Potential
+42,Male,Master's,5,5,43.57028739,73,56,Moderate,Not Potential
+30,Male,Master's,12,5,5.213218308,46,78,Conservative,Potential
+30,Male,Diploma's,7,5,18.80465426,55,81,Moderate,Not Potential
+43,Female,Bachelor's,3,3,35.01922069,22,98,Aggressive,Not Potential
+40,Male,Master's,12,5,14.70601819,17,29,Moderate,Not Potential
+23,Female,Diploma's,7,5,42.38375974,0,97,Moderate,Not Potential
+27,Female,PhD,1,5,37.99339133,34,41,Aggressive,Not Potential
+43,Female,Bachelor's,14,1,40.45114223,63,10,Moderate,Not Potential
+22,Female,Diploma's,9,3,6.955326794,57,26,Moderate,Not Potential
+41,Female,Master's,8,2,8.0273564,94,23,Moderate,Not Potential
+40,Female,Bachelor's,8,1,15.32368689,58,98,Moderate,Potential
+21,Male,Bachelor's,7,4,26.90385826,0,38,Conservative,Not Potential
+43,Male,Diploma's,9,3,38.40080383,2,71,Moderate,Not Potential
+31,Female,Diploma's,13,3,42.82654454,66,17,Moderate,Not Potential
+49,Female,Bachelor's,12,4,36.2167658,36,76,Aggressive,Potential
+25,Male,Bachelor's,9,4,47.42984408,82,44,Moderate,Not Potential
+21,Female,Bachelor's,0,4,37.93717548,28,87,Conservative,Not Potential
+47,Female,Master's,1,2,16.31339435,88,86,Moderate,Not Potential
+40,Male,Bachelor's,5,5,14.25406422,32,11,Moderate,Not Potential
+20,Female,Diploma's,9,3,35.80962252,99,48,Moderate,Not Potential
+31,Female,Bachelor's,4,5,10.64352843,60,93,Moderate,Not Potential
+45,Female,PhD,11,5,5.635740541,92,30,Aggressive,Potential
+41,Male,Master's,13,4,27.61114374,89,91,Conservative,Potential
+48,Male,Bachelor's,8,2,42.08207849,3,21,Aggressive,Not Potential
+31,Male,Bachelor's,4,1,6.068992123,13,43,Moderate,Not Potential
+44,Female,Bachelor's,1,2,40.59456619,90,91,Moderate,Not Potential
+36,Female,Master's,9,5,41.57860022,32,63,Moderate,Potential
+46,Male,Master's,3,2,25.1137,21,76,Aggressive,Potential
+46,Female,Bachelor's,8,4,3.865515501,47,24,Moderate,Not Potential
+50,Female,Master's,0,1,9.729492562,2,50,Aggressive,Not Potential
+29,Female,Master's,10,4,36.37131376,86,6,Aggressive,Potential
+47,Female,Diploma's,0,1,36.58889725,84,5,Moderate,Not Potential
+47,Female,Bachelor's,11,5,45.91776376,22,23,Moderate,Not Potential
+35,Male,Diploma's,6,1,30.13430733,67,18,Aggressive,Potential
+34,Female,Bachelor's,10,1,7.205368386,20,82,Aggressive,Potential
+49,Male,Master's,2,1,7.070745275,100,99,Conservative,Not Potential
+49,Female,Bachelor's,9,2,37.05661787,42,8,Conservative,Not Potential
+34,Male,Bachelor's,1,2,10.18923326,94,35,Aggressive,Not Potential
+49,Female,Diploma's,8,5,17.41927498,84,39,Moderate,Not Potential
+38,Male,Bachelor's,2,1,25.36060035,25,92,Moderate,Not Potential
+31,Female,Bachelor's,15,3,2.238243879,40,23,Moderate,Not Potential
+42,Male,Bachelor's,1,5,13.44095135,98,47,Conservative,Not Potential
+39,Female,Bachelor's,11,1,21.39448043,37,62,Aggressive,Potential
+44,Male,Bachelor's,7,1,14.98181592,87,68,Moderate,Potential
+22,Female,Bachelor's,9,2,7.818516373,10,52,Moderate,Not Potential
+24,Male,Diploma's,5,5,37.40061289,28,53,Moderate,Not Potential
+38,Male,Diploma's,5,1,41.65738276,59,41,Moderate,Not Potential
+26,Female,Bachelor's,9,1,13.87394881,66,44,Conservative,Not Potential
+40,Female,Bachelor's,10,5,39.72097473,64,89,Aggressive,Potential
+28,Male,Bachelor's,6,3,20.27767822,60,13,Aggressive,Potential
+26,Female,Bachelor's,6,5,26.33428954,18,28,Aggressive,Potential
+37,Male,Bachelor's,10,5,43.80005374,45,5,Conservative,Not Potential
+23,Male,Master's,12,3,38.49768409,48,6,Moderate,Not Potential
+44,Male,Diploma's,14,5,41.25584257,21,36,Moderate,Not Potential
+47,Female,Bachelor's,5,1,7.842258329,77,52,Aggressive,Potential
+33,Male,Master's,3,5,4.485971292,56,17,Conservative,Not Potential
+37,Male,Bachelor's,10,3,45.67023645,13,86,Conservative,Not Potential
+45,Female,Bachelor's,8,4,20.39171348,43,37,Moderate,Not Potential
+28,Female,PhD,5,5,15.3939839,15,58,Moderate,Not Potential
+45,Female,Master's,3,2,37.23481271,96,0,Aggressive,Potential
+40,Female,Bachelor's,11,1,42.82077983,76,67,Moderate,Not Potential
+21,Male,Bachelor's,2,1,44.12448109,11,43,Moderate,Not Potential
+39,Male,Bachelor's,3,2,16.79985706,54,46,Aggressive,Not Potential
+47,Male,Bachelor's,2,2,43.61061956,50,34,Moderate,Not Potential
+34,Male,Bachelor's,14,5,3.046697219,38,86,Aggressive,Potential
+47,Female,Bachelor's,1,2,3.483074573,32,90,Moderate,Not Potential
+26,Male,Bachelor's,13,4,32.17595976,32,59,Moderate,Not Potential
+31,Male,Bachelor's,4,3,4.155318456,28,89,Aggressive,Not Potential
+48,Female,Master's,1,2,17.23045843,68,51,Moderate,Not Potential
+27,Male,Bachelor's,5,2,34.63779931,69,7,Moderate,Not Potential
+34,Male,Diploma's,2,4,17.8633448,30,79,Aggressive,Potential
+22,Male,Bachelor's,5,1,9.979989072,79,40,Conservative,Not Potential
+33,Male,Bachelor's,14,1,15.06753109,30,2,Aggressive,Not Potential
+36,Male,Bachelor's,10,5,23.87876661,88,95,Moderate,Potential
+23,Male,Bachelor's,9,4,24.76929277,45,68,Aggressive,Potential
+37,Female,Bachelor's,8,3,40.15001157,96,83,Aggressive,Potential
+27,Female,Bachelor's,0,3,38.50766147,76,13,Aggressive,Not Potential
+23,Male,Diploma's,15,4,23.84089023,51,95,Aggressive,Potential
+21,Male,Diploma's,15,3,43.28336745,9,25,Moderate,Not Potential
+49,Female,Bachelor's,5,1,6.71185693,87,69,Aggressive,Potential
+25,Male,Bachelor's,8,3,13.76766751,73,57,Moderate,Not Potential
+41,Male,PhD,10,3,42.39882318,40,99,Aggressive,Potential
+29,Male,Bachelor's,3,4,19.89970193,94,39,Aggressive,Potential
+23,Female,Bachelor's,10,4,50.05907794,76,50,Moderate,Not Potential
+41,Male,Bachelor's,11,3,24.31266408,2,4,Conservative,Not Potential
+48,Female,Diploma's,1,2,40.59678115,58,76,Moderate,Not Potential
+50,Male,PhD,12,4,21.11535207,51,31,Moderate,Potential
+37,Female,Bachelor's,3,5,22.24767595,33,79,Aggressive,Not Potential
+45,Female,Master's,0,5,20.14415736,48,0,Conservative,Not Potential
+31,Male,Diploma's,2,1,36.95378103,27,76,Aggressive,Not Potential
+21,Female,Bachelor's,9,3,28.3758942,82,53,Aggressive,Potential
+29,Male,Bachelor's,8,2,48.18890557,86,10,Moderate,Not Potential
+49,Female,Master's,9,1,13.54451583,95,52,Moderate,Not Potential
+23,Male,Diploma's,4,3,6.028136604,12,7,Conservative,Not Potential
+33,Male,Bachelor's,14,4,20.66307425,96,24,Aggressive,Potential
+50,Female,PhD,10,5,31.83563538,97,39,Conservative,Not Potential
+35,Male,Bachelor's,5,2,44.03994685,96,31,Moderate,Not Potential
+34,Male,Bachelor's,2,5,18.30984433,68,87,Moderate,Not Potential
+27,Female,Diploma's,15,4,33.68933756,66,27,Aggressive,Potential
+33,Male,PhD,4,3,18.50993405,60,77,Aggressive,Potential
+42,Male,Diploma's,10,4,31.86097915,59,2,Conservative,Not Potential
+47,Female,Master's,7,4,45.24039735,70,99,Moderate,Potential
+44,Female,Master's,5,5,12.56788211,23,90,Moderate,Not Potential
+49,Male,Bachelor's,3,2,21.21208211,62,83,Conservative,Not Potential
+27,Male,Bachelor's,1,4,50.66325982,85,78,Aggressive,Potential
+40,Female,Diploma's,13,5,44.42785141,60,61,Moderate,Potential
+35,Female,Bachelor's,8,2,29.23199289,22,26,Moderate,Not Potential
+32,Male,Master's,12,3,26.83137959,29,44,Aggressive,Potential
+37,Female,Master's,11,3,15.23001912,59,91,Aggressive,Potential
+34,Male,Bachelor's,0,1,26.86047138,17,24,Moderate,Not Potential
+40,Male,Bachelor's,0,5,43.40907491,95,60,Moderate,Not Potential
+43,Male,Diploma's,12,2,35.25872566,55,43,Moderate,Not Potential
+45,Male,Diploma's,3,4,15.50220141,52,96,Aggressive,Potential
+44,Male,Diploma's,6,3,11.07319605,6,45,Conservative,Not Potential
+47,Female,Bachelor's,0,2,14.26042685,96,13,Aggressive,Not Potential
+47,Female,Bachelor's,8,5,9.48796007,68,7,Moderate,Not Potential
+47,Female,Bachelor's,3,1,5.782034801,91,47,Moderate,Not Potential
+32,Female,Bachelor's,2,3,21.95680872,71,13,Aggressive,Potential
+28,Male,Bachelor's,0,2,6.66498022,78,64,Aggressive,Potential
+48,Male,Bachelor's,9,2,9.595627886,51,79,Moderate,Not Potential
+34,Male,Master's,3,2,28.36623422,3,81,Conservative,Not Potential
+32,Male,Bachelor's,8,5,9.229963685,33,6,Aggressive,Potential
+20,Female,PhD,12,5,4.193988372,68,78,Moderate,Potential
+44,Male,Master's,13,5,16.8694425,32,87,Moderate,Not Potential
+26,Male,Diploma's,9,4,12.01595493,68,48,Aggressive,Potential
+28,Female,Master's,15,2,26.7652594,37,54,Moderate,Not Potential
+43,Female,Bachelor's,15,3,6.118354229,97,12,Conservative,Not Potential
+20,Female,Bachelor's,5,5,38.58853938,25,72,Moderate,Not Potential
+31,Female,Bachelor's,15,5,46.31167597,0,55,Conservative,Not Potential
+27,Male,Bachelor's,5,2,38.1717587,3,55,Aggressive,Not Potential
+43,Male,Bachelor's,0,5,27.64135187,38,14,Moderate,Not Potential
+50,Female,Bachelor's,9,4,44.03339109,53,56,Moderate,Not Potential
+30,Male,Bachelor's,1,4,35.74591899,89,57,Moderate,Not Potential
+38,Male,Bachelor's,10,5,1.527556123,32,34,Moderate,Not Potential
+36,Male,Bachelor's,5,2,20.70450764,32,87,Aggressive,Not Potential
+27,Female,Master's,1,2,43.54759497,71,96,Moderate,Potential
+22,Male,Diploma's,2,2,18.2929429,19,15,Moderate,Not Potential
+22,Female,Bachelor's,3,1,2.760758676,15,7,Aggressive,Not Potential
+20,Male,Master's,10,5,38.30898193,20,92,Conservative,Potential
+46,Male,Bachelor's,4,2,41.10191351,44,86,Moderate,Not Potential
+24,Male,Diploma's,14,4,9.029684752,89,44,Moderate,Not Potential
+29,Female,Diploma's,8,3,27.86702484,86,94,Aggressive,Potential
+26,Male,Bachelor's,11,3,10.59777195,81,39,Aggressive,Potential
+45,Female,PhD,14,2,36.96172095,61,53,Moderate,Potential
+28,Female,Bachelor's,14,3,14.57752276,30,13,Moderate,Not Potential
+47,Female,PhD,3,3,16.81075613,41,58,Moderate,Not Potential
+26,Male,Bachelor's,12,1,43.24854268,11,93,Moderate,Not Potential
+28,Male,Bachelor's,10,4,24.81611761,64,52,Aggressive,Potential
+27,Male,Bachelor's,8,4,34.48772256,72,26,Moderate,Not Potential
+31,Male,Bachelor's,10,1,21.11865254,2,46,Moderate,Not Potential
+21,Female,Diploma's,9,1,15.90034286,89,79,Moderate,Potential
+20,Female,Master's,2,3,32.27390302,8,5,Aggressive,Not Potential
+35,Female,Master's,7,5,8.742878704,50,54,Aggressive,Potential
+42,Male,Bachelor's,11,3,19.64999178,15,96,Moderate,Not Potential
+42,Female,PhD,0,1,11.45185187,87,43,Aggressive,Potential
+49,Male,Master's,10,4,35.78974835,77,17,Aggressive,Potential
+43,Female,Bachelor's,8,3,48.21044192,2,15,Aggressive,Not Potential
+24,Male,Diploma's,8,5,50.7755484,97,11,Moderate,Not Potential
+22,Male,Bachelor's,9,3,23.51384052,96,19,Moderate,Not Potential
+31,Female,Bachelor's,1,2,13.62651948,23,44,Moderate,Not Potential
+27,Female,Bachelor's,3,3,23.14146852,72,63,Aggressive,Potential
+41,Female,Diploma's,12,1,43.3634705,12,58,Moderate,Not Potential
+46,Female,Master's,7,4,11.30028393,1,92,Aggressive,Potential
+22,Male,Diploma's,6,4,48.60478258,70,93,Conservative,Not Potential
+20,Female,Bachelor's,0,1,18.09328844,20,89,Moderate,Not Potential
+22,Female,PhD,4,2,50.29018297,18,21,Moderate,Not Potential
+24,Female,Master's,6,1,42.93044438,88,96,Aggressive,Potential
+34,Male,Bachelor's,14,3,41.42852671,46,46,Aggressive,Potential
+33,Male,Master's,15,1,16.89523369,21,28,Moderate,Not Potential
+22,Female,Diploma's,3,1,1.438860597,74,85,Moderate,Not Potential
+20,Male,Diploma's,14,2,20.10664544,32,44,Aggressive,Potential
+24,Female,Bachelor's,15,3,16.09046848,31,76,Conservative,Not Potential
+45,Male,Bachelor's,14,5,2.86984952,63,8,Conservative,Not Potential
+42,Male,Bachelor's,0,5,26.26826283,84,23,Moderate,Not Potential
+50,Male,Bachelor's,8,4,21.15156556,38,14,Conservative,Not Potential
+33,Male,Diploma's,13,1,32.72782339,83,35,Aggressive,Potential
+26,Female,Bachelor's,4,4,32.05931611,71,12,Aggressive,Potential
+46,Female,Bachelor's,10,2,7.037331795,41,90,Aggressive,Potential
+28,Female,Master's,15,5,49.84827731,100,43,Moderate,Potential
+34,Male,Bachelor's,1,1,10.34657147,8,100,Aggressive,Potential
+34,Female,Bachelor's,7,2,23.26370124,24,70,Conservative,Not Potential
+45,Female,Bachelor's,10,2,25.40587717,88,71,Aggressive,Potential
+29,Female,Diploma's,12,1,41.65313986,96,100,Moderate,Not Potential
+47,Male,Diploma's,1,2,5.961479805,1,77,Conservative,Not Potential
+32,Male,Master's,2,1,22.43221396,18,75,Aggressive,Potential
+38,Male,Bachelor's,13,1,32.42510851,19,35,Aggressive,Not Potential
+50,Female,Diploma's,9,3,11.75778108,92,60,Moderate,Not Potential
+26,Female,Bachelor's,0,4,32.37339494,69,80,Aggressive,Potential
+36,Female,Bachelor's,10,2,47.18324188,16,39,Aggressive,Not Potential
+39,Male,Bachelor's,15,2,50.87590656,88,92,Aggressive,Potential
+48,Male,Bachelor's,1,3,2.62255384,67,26,Moderate,Not Potential
+23,Female,Bachelor's,13,3,12.77941141,93,0,Conservative,Not Potential
+49,Male,Bachelor's,15,3,16.51535579,83,33,Conservative,Not Potential
+24,Male,Diploma's,6,5,20.95630502,2,67,Aggressive,Potential
+42,Male,Bachelor's,9,5,13.11285788,86,87,Moderate,Potential
+26,Male,Master's,1,5,11.17439973,50,20,Moderate,Not Potential
+32,Female,Master's,5,1,48.72769212,81,32,Conservative,Not Potential
+34,Male,Master's,14,2,46.92608014,25,6,Aggressive,Potential
+30,Male,Bachelor's,2,4,3.34962505,55,64,Moderate,Not Potential
+48,Male,Bachelor's,3,1,17.94065108,99,2,Moderate,Not Potential
+23,Male,Bachelor's,10,2,21.25742768,63,50,Conservative,Not Potential
+32,Female,Bachelor's,14,2,12.95072673,7,78,Aggressive,Potential
+26,Female,Bachelor's,12,3,32.44364485,80,94,Aggressive,Potential
+46,Male,Diploma's,7,3,33.01903733,94,53,Aggressive,Potential
+38,Male,Bachelor's,13,1,43.52521142,36,79,Aggressive,Potential
+41,Male,PhD,2,3,38.04346342,96,73,Moderate,Not Potential
+47,Male,Bachelor's,9,2,28.12866635,26,92,Moderate,Not Potential
+21,Male,Diploma's,5,3,33.6793385,44,58,Moderate,Not Potential
+29,Male,Bachelor's,0,5,14.69943908,3,5,Aggressive,Not Potential
+32,Female,Master's,6,3,30.6528095,85,28,Aggressive,Potential
+49,Male,Bachelor's,7,2,25.46136274,89,16,Aggressive,Potential
+44,Female,Bachelor's,10,1,7.667223366,95,59,Aggressive,Potential
+40,Female,Diploma's,13,4,13.12721383,87,21,Moderate,Not Potential
+25,Male,Bachelor's,7,3,15.58467254,98,23,Aggressive,Potential
+47,Female,Bachelor's,2,2,47.21547835,36,80,Aggressive,Not Potential
+47,Female,Master's,13,4,12.51933197,95,84,Moderate,Potential
+31,Female,Bachelor's,9,4,15.46219514,70,50,Moderate,Not Potential
+31,Female,Diploma's,0,5,19.4677065,32,49,Moderate,Not Potential
+39,Female,Diploma's,8,4,34.18713693,30,10,Conservative,Not Potential
+49,Female,Diploma's,12,2,6.911919624,54,55,Aggressive,Potential
+49,Male,Bachelor's,5,2,48.69726062,11,70,Moderate,Not Potential
+30,Female,Bachelor's,10,3,44.278561,10,41,Moderate,Not Potential
+45,Female,Bachelor's,8,3,29.86080365,87,38,Moderate,Not Potential
+42,Female,Bachelor's,6,3,34.70189337,71,68,Conservative,Not Potential
+47,Male,Bachelor's,0,4,1.833023562,31,47,Aggressive,Not Potential
+44,Female,Diploma's,11,4,17.94723877,56,56,Moderate,Not Potential
+26,Male,Diploma's,11,5,40.78301153,37,20,Aggressive,Not Potential
+49,Female,Master's,0,3,4.87414869,59,81,Moderate,Not Potential
+20,Male,Bachelor's,5,1,15.11569171,85,98,Moderate,Not Potential
+20,Male,Bachelor's,4,5,30.26484142,97,19,Conservative,Not Potential
+44,Female,Master's,8,1,13.82065138,18,14,Conservative,Not Potential
+46,Female,Bachelor's,1,4,47.69889871,83,68,Moderate,Not Potential
+49,Male,Master's,7,5,7.55293154,55,76,Aggressive,Potential
+44,Female,Bachelor's,10,5,40.8697179,13,50,Moderate,Not Potential
+39,Male,PhD,4,2,26.3974346,32,75,Moderate,Not Potential
+32,Male,Diploma's,1,4,38.51653879,9,61,Aggressive,Not Potential
+28,Male,Diploma's,12,4,16.53576642,79,84,Moderate,Not Potential
+22,Male,Bachelor's,9,5,26.72448012,63,36,Conservative,Not Potential
+26,Male,PhD,10,4,43.84176749,63,5,Moderate,Potential
+25,Female,Master's,10,5,24.34390496,61,70,Moderate,Potential
+27,Male,Diploma's,11,2,18.9859931,67,25,Conservative,Not Potential
+46,Male,Bachelor's,5,5,27.80776931,90,7,Aggressive,Not Potential
+28,Female,PhD,9,4,36.86813765,91,72,Aggressive,Potential
+49,Male,Bachelor's,7,4,23.17816727,42,90,Moderate,Not Potential
+24,Female,Master's,3,5,47.94384876,79,3,Moderate,Not Potential
+20,Female,Master's,1,5,15.7472912,58,20,Moderate,Not Potential
+38,Female,Bachelor's,11,5,24.77318031,51,30,Aggressive,Potential
+29,Male,Bachelor's,10,3,38.84638297,96,20,Aggressive,Potential
+31,Male,Bachelor's,4,4,35.45605452,18,24,Aggressive,Not Potential
+43,Male,Bachelor's,14,4,44.18205262,20,14,Conservative,Not Potential
+34,Female,Master's,11,3,50.84045903,21,34,Moderate,Not Potential
+46,Male,Bachelor's,1,5,22.34291644,8,48,Moderate,Not Potential
+41,Female,Master's,1,2,6.557543989,8,42,Aggressive,Potential
+43,Male,Diploma's,14,5,2.52079404,72,40,Aggressive,Potential
+28,Female,PhD,5,5,37.34384531,26,36,Moderate,Not Potential
+39,Male,Bachelor's,15,3,44.70068357,16,56,Aggressive,Not Potential
+36,Male,Diploma's,10,4,12.0356293,43,41,Moderate,Not Potential
+49,Male,Diploma's,9,5,8.922401859,44,46,Moderate,Not Potential
+36,Female,Master's,8,4,4.110254576,7,91,Moderate,Potential
+45,Female,Bachelor's,12,1,42.13514609,79,60,Moderate,Not Potential
+39,Male,Master's,3,4,16.56909699,17,13,Moderate,Not Potential
+31,Male,Diploma's,5,2,21.08484464,32,67,Aggressive,Not Potential
+49,Female,Diploma's,15,2,26.13750958,0,52,Moderate,Not Potential
+26,Female,Bachelor's,6,5,42.97266171,75,83,Moderate,Not Potential
+21,Female,Bachelor's,12,4,33.54166108,5,33,Aggressive,Not Potential
+22,Male,Bachelor's,10,5,31.75323149,40,75,Conservative,Not Potential
+36,Female,PhD,5,3,9.783604998,54,96,Aggressive,Potential
+24,Male,PhD,7,2,26.65949459,4,23,Aggressive,Potential
+36,Female,PhD,3,5,36.76905086,58,19,Aggressive,Potential
+43,Male,Master's,11,3,49.66304415,79,68,Conservative,Potential
+36,Female,Bachelor's,14,5,11.07031546,17,29,Moderate,Not Potential
+46,Female,Bachelor's,0,4,1.477167653,48,87,Moderate,Not Potential
+36,Female,Bachelor's,6,4,4.76507168,81,6,Aggressive,Potential
+21,Female,Master's,2,4,19.79262326,64,35,Moderate,Not Potential
+21,Female,Diploma's,13,4,42.02723239,82,37,Moderate,Not Potential
+47,Male,Bachelor's,5,1,1.357104088,53,79,Conservative,Not Potential
+41,Female,Diploma's,1,3,23.83652964,60,51,Aggressive,Not Potential
+42,Female,Bachelor's,8,3,17.46153077,7,14,Aggressive,Potential
+24,Female,Master's,0,4,3.624085505,2,45,Aggressive,Not Potential
+20,Male,Master's,5,1,23.51181433,24,22,Conservative,Not Potential
+20,Female,Bachelor's,5,4,13.73743537,68,11,Moderate,Not Potential
+38,Male,PhD,4,1,18.59424172,54,92,Moderate,Not Potential
+49,Female,Bachelor's,15,4,36.28076524,39,43,Moderate,Not Potential
+21,Female,Diploma's,12,2,27.0775492,82,14,Conservative,Not Potential
+40,Male,Bachelor's,4,2,7.23237145,81,92,Conservative,Not Potential
+31,Female,Bachelor's,0,5,49.07072702,49,48,Moderate,Not Potential
+45,Male,Diploma's,9,4,32.79553829,94,20,Aggressive,Potential
+25,Male,PhD,11,3,39.29342128,32,14,Aggressive,Potential
+42,Female,Bachelor's,4,5,4.9606575,17,13,Conservative,Not Potential
+23,Male,Master's,1,2,3.352918973,56,41,Moderate,Not Potential
+42,Female,Bachelor's,6,4,1.972402518,15,79,Aggressive,Potential
+30,Female,Diploma's,2,5,10.43970139,79,14,Moderate,Not Potential
+43,Male,Bachelor's,12,4,21.72041989,37,62,Conservative,Not Potential
+46,Male,Diploma's,14,2,47.79130667,40,67,Moderate,Not Potential
+36,Male,Bachelor's,3,5,23.85298296,6,26,Moderate,Not Potential
+50,Male,PhD,2,2,15.51275527,77,86,Conservative,Not Potential
+25,Female,Bachelor's,2,1,29.09676268,52,92,Moderate,Not Potential
+43,Female,Bachelor's,3,2,6.596728907,62,52,Aggressive,Not Potential
+24,Male,Diploma's,4,4,31.47529455,88,51,Conservative,Not Potential
+39,Female,Diploma's,0,3,29.42159772,31,62,Conservative,Not Potential
+21,Female,Diploma's,3,2,40.59965167,37,72,Conservative,Not Potential
+25,Female,Bachelor's,11,3,50.33438058,21,52,Moderate,Not Potential
+41,Female,Diploma's,11,1,13.54367359,15,56,Aggressive,Not Potential
+30,Male,Bachelor's,10,5,26.48282254,51,51,Conservative,Not Potential
+50,Male,Bachelor's,7,5,46.44327032,28,42,Aggressive,Not Potential
+35,Female,Bachelor's,9,3,40.25949422,15,6,Conservative,Not Potential
+35,Male,Diploma's,6,5,25.37031516,75,41,Conservative,Not Potential
+20,Male,Bachelor's,8,2,48.26858248,16,3,Moderate,Not Potential
+28,Male,PhD,4,3,3.861834676,100,68,Conservative,Not Potential
+47,Female,Bachelor's,12,4,47.54993099,63,4,Moderate,Not Potential
+46,Female,Bachelor's,14,2,3.525369619,90,74,Aggressive,Potential
+25,Female,Diploma's,9,2,28.36523721,88,91,Moderate,Not Potential
+35,Male,PhD,3,2,45.5220474,12,79,Aggressive,Potential
+48,Female,Bachelor's,7,4,14.13604718,71,40,Moderate,Not Potential
+22,Female,Bachelor's,8,1,24.61242495,55,93,Aggressive,Potential
+39,Male,Master's,12,5,17.21644396,4,3,Moderate,Not Potential
+47,Female,Bachelor's,6,3,48.60719585,11,1,Conservative,Not Potential
+46,Female,Bachelor's,13,1,42.18227974,40,66,Conservative,Not Potential
+23,Male,Bachelor's,15,3,36.45007557,2,20,Moderate,Not Potential
+38,Male,Bachelor's,6,5,30.38134933,98,69,Moderate,Potential
+45,Male,PhD,15,4,42.02958947,32,42,Moderate,Not Potential
+22,Female,Master's,4,2,20.61335208,85,81,Conservative,Not Potential
+50,Female,Bachelor's,3,2,23.37759276,49,68,Moderate,Not Potential
+38,Female,Diploma's,13,4,37.50008605,55,8,Moderate,Not Potential
+39,Male,Diploma's,9,1,18.88773816,8,83,Conservative,Not Potential
+26,Male,Bachelor's,0,1,4.195047102,81,27,Moderate,Not Potential
+39,Female,Master's,9,3,4.716730444,49,25,Conservative,Not Potential
+28,Female,Bachelor's,9,4,6.768140065,28,81,Conservative,Not Potential
+20,Male,Bachelor's,6,1,44.48406617,38,82,Conservative,Not Potential
+27,Male,Master's,15,4,24.61132129,90,2,Aggressive,Potential
+26,Male,Diploma's,0,5,36.64411847,99,72,Moderate,Not Potential
+37,Male,Bachelor's,0,2,20.64546678,44,99,Conservative,Not Potential
+27,Female,Diploma's,4,2,13.93554737,16,94,Moderate,Not Potential
+20,Male,PhD,12,2,18.35960838,55,48,Moderate,Not Potential
+30,Female,Bachelor's,8,4,40.70911727,97,16,Aggressive,Potential
+47,Female,Diploma's,5,4,32.26080625,45,62,Aggressive,Potential
+44,Female,Bachelor's,2,3,47.881989,66,54,Moderate,Not Potential
+44,Male,Bachelor's,12,2,34.98523893,68,22,Moderate,Not Potential
+37,Male,Master's,2,3,29.50908159,13,33,Moderate,Not Potential
+42,Male,Master's,6,2,31.50980045,66,68,Moderate,Potential
+50,Male,Bachelor's,5,3,48.11857197,22,14,Moderate,Not Potential
+49,Female,Diploma's,8,3,40.41004649,93,46,Moderate,Not Potential
+29,Male,Diploma's,5,5,2.202061868,60,2,Moderate,Not Potential
+22,Male,Diploma's,4,3,27.70698481,22,82,Moderate,Not Potential
+26,Female,Bachelor's,9,4,35.41692058,26,27,Moderate,Not Potential
+47,Male,Master's,6,3,38.43492392,53,2,Aggressive,Potential
+35,Female,Bachelor's,0,2,11.65710597,9,3,Moderate,Not Potential
+45,Female,Diploma's,11,3,44.35886772,88,87,Moderate,Not Potential
+35,Female,Bachelor's,6,1,48.79215736,76,30,Moderate,Not Potential
+44,Female,Master's,15,2,12.83576529,15,44,Moderate,Not Potential
+39,Female,Master's,2,1,45.13077288,40,58,Moderate,Not Potential
+47,Female,Master's,13,2,5.848938126,97,44,Aggressive,Potential
+36,Female,Bachelor's,8,4,3.785341806,54,74,Conservative,Potential
+21,Female,Diploma's,14,4,7.461190005,100,36,Aggressive,Potential
+20,Male,Master's,5,4,3.887053973,60,64,Conservative,Not Potential
+35,Male,Bachelor's,8,1,43.25061186,85,8,Moderate,Not Potential
+49,Male,Bachelor's,12,5,3.952507223,80,16,Moderate,Not Potential
+31,Male,Master's,14,2,14.58320957,86,64,Aggressive,Potential
+24,Female,Master's,4,4,6.187817177,99,2,Aggressive,Potential
+24,Male,Bachelor's,6,2,15.77110182,48,25,Aggressive,Not Potential
+46,Female,Bachelor's,12,1,5.52797338,72,52,Aggressive,Potential
+42,Male,Bachelor's,15,5,34.40016254,51,30,Moderate,Not Potential
+28,Male,Bachelor's,13,1,7.666340817,1,25,Moderate,Not Potential
+28,Male,Bachelor's,3,2,43.59229629,95,22,Moderate,Not Potential
+22,Female,Master's,14,5,41.85955254,49,29,Aggressive,Potential
+38,Male,Master's,15,5,1.683084274,85,9,Conservative,Potential
+35,Female,Master's,6,1,45.78631778,42,71,Moderate,Not Potential
+35,Female,Diploma's,12,4,2.447215837,76,88,Aggressive,Potential
+22,Male,Master's,0,2,12.98228925,7,63,Moderate,Not Potential
+39,Male,Master's,6,3,2.619456889,58,21,Aggressive,Potential
+43,Male,Bachelor's,7,3,17.79217435,64,14,Aggressive,Potential
+41,Female,Master's,4,1,26.69332629,80,55,Moderate,Not Potential
+43,Male,Master's,1,2,40.83224345,11,73,Moderate,Not Potential
+20,Female,Bachelor's,4,2,17.89907752,3,19,Conservative,Not Potential
+43,Female,Bachelor's,5,1,36.27450123,76,46,Moderate,Not Potential
+39,Male,Diploma's,11,2,10.37522286,94,86,Conservative,Not Potential
+30,Male,Bachelor's,1,4,38.52992284,40,52,Conservative,Not Potential
+36,Female,Bachelor's,13,1,12.7998303,6,52,Conservative,Not Potential
+27,Female,Master's,5,4,8.177237797,86,0,Moderate,Not Potential
+23,Female,Bachelor's,5,2,10.27044252,87,1,Aggressive,Potential
+25,Male,Diploma's,0,1,10.10315644,68,57,Aggressive,Potential
+27,Female,Bachelor's,13,2,26.64314397,68,18,Moderate,Not Potential
+39,Male,Diploma's,0,1,43.23987906,80,61,Moderate,Not Potential
+49,Female,Diploma's,13,2,4.98025385,29,77,Aggressive,Potential
+22,Female,Diploma's,10,4,36.34781592,72,71,Moderate,Not Potential
+35,Male,Diploma's,15,4,33.71732298,5,11,Aggressive,Potential
+49,Female,Diploma's,9,2,44.62599759,88,25,Moderate,Not Potential
+44,Male,Bachelor's,2,1,13.20737803,18,26,Aggressive,Not Potential
+22,Male,Bachelor's,13,3,23.50549293,79,28,Moderate,Not Potential
+44,Female,Master's,9,4,47.29136872,84,14,Moderate,Potential
+48,Male,Bachelor's,9,4,33.99967251,65,45,Aggressive,Potential
+37,Male,Master's,14,3,20.43842064,9,0,Moderate,Not Potential
+33,Female,Diploma's,11,2,7.570619143,15,59,Moderate,Not Potential
+37,Male,Bachelor's,2,1,14.1242504,36,91,Aggressive,Not Potential
+21,Male,Master's,3,2,30.06077387,78,56,Aggressive,Potential
+41,Male,Diploma's,1,5,36.90839738,76,2,Moderate,Not Potential
+22,Female,Bachelor's,8,4,7.221094343,76,17,Moderate,Not Potential
+35,Male,Bachelor's,9,5,30.979863,31,51,Moderate,Not Potential
+48,Female,Bachelor's,11,4,28.51756394,46,59,Aggressive,Not Potential
+28,Female,Diploma's,10,4,26.69777233,71,33,Moderate,Not Potential
+23,Male,Bachelor's,13,5,35.50615588,42,95,Aggressive,Potential
+20,Male,Bachelor's,6,5,42.87247975,81,92,Conservative,Potential
+23,Male,Diploma's,6,2,17.14948416,35,88,Moderate,Not Potential
+20,Female,Bachelor's,14,5,45.45060951,25,59,Conservative,Not Potential
+33,Male,Master's,5,2,9.031680631,9,25,Moderate,Not Potential
+40,Male,PhD,14,2,9.651193488,30,71,Moderate,Potential
+35,Male,Bachelor's,2,2,14.33860318,96,18,Moderate,Not Potential
+39,Male,Master's,5,4,6.976543477,28,21,Moderate,Not Potential
+43,Male,Bachelor's,14,4,12.51596123,4,92,Moderate,Not Potential
+27,Female,Bachelor's,13,5,6.320588145,76,32,Moderate,Not Potential
+26,Female,Diploma's,11,4,42.08762085,0,37,Moderate,Not Potential
+22,Male,Master's,7,5,7.948449594,86,34,Moderate,Potential
+36,Male,Bachelor's,7,4,38.36487788,2,66,Moderate,Not Potential
+20,Male,Bachelor's,10,1,3.395693396,66,82,Conservative,Not Potential
+35,Male,Diploma's,12,1,48.42601638,70,9,Moderate,Not Potential
+31,Female,Master's,8,5,36.55800438,99,90,Moderate,Potential
+46,Male,Master's,14,4,1.339827429,34,14,Moderate,Not Potential
+38,Female,Master's,0,4,39.19282501,14,10,Moderate,Not Potential
+41,Female,Bachelor's,13,2,26.70409604,66,89,Conservative,Not Potential
+42,Male,Diploma's,0,3,39.96825852,92,23,Conservative,Not Potential
+41,Female,Bachelor's,2,5,27.12484044,29,76,Moderate,Not Potential
+33,Female,Bachelor's,2,3,33.05124288,81,95,Moderate,Not Potential
+49,Female,Diploma's,9,3,40.31658277,74,100,Moderate,Not Potential
+25,Female,Bachelor's,7,5,21.25540273,42,3,Moderate,Not Potential
+25,Male,PhD,14,4,1.135407491,59,12,Conservative,Not Potential
+32,Male,Master's,9,5,43.4973248,39,72,Aggressive,Potential
+38,Female,Master's,0,3,20.04451813,64,56,Aggressive,Potential
+41,Male,PhD,12,4,25.8021363,28,97,Aggressive,Potential
+27,Male,Bachelor's,1,1,1.388332108,73,36,Moderate,Not Potential
+46,Male,Bachelor's,1,5,25.60460052,91,47,Conservative,Not Potential
+46,Male,PhD,2,5,50.32437008,94,70,Aggressive,Potential
+21,Male,Diploma's,12,4,14.91338304,18,0,Moderate,Not Potential
+40,Female,Master's,5,1,20.77091351,2,59,Moderate,Not Potential
+49,Male,Bachelor's,0,1,35.35949982,35,11,Moderate,Not Potential
+20,Male,Bachelor's,1,4,41.73968338,42,20,Moderate,Not Potential
+47,Male,Bachelor's,12,2,21.8695812,14,10,Conservative,Not Potential
+34,Male,PhD,15,5,16.48344352,96,43,Aggressive,Potential
+20,Female,Master's,14,5,47.89129,40,57,Moderate,Not Potential
+24,Female,Diploma's,12,3,34.85724833,89,43,Aggressive,Potential
+47,Female,Master's,15,4,6.951065225,79,77,Moderate,Potential
+48,Female,Bachelor's,0,3,4.446393907,35,97,Conservative,Not Potential
+35,Male,Bachelor's,4,3,25.17749254,96,33,Aggressive,Not Potential
+38,Female,Bachelor's,15,1,12.0045033,83,24,Aggressive,Potential
+23,Male,Bachelor's,12,5,13.69923767,76,3,Moderate,Not Potential
+22,Male,Bachelor's,12,3,44.88460894,32,63,Moderate,Not Potential
+36,Male,PhD,6,1,5.478301216,4,89,Moderate,Not Potential
+36,Male,Master's,15,4,36.76820576,100,15,Aggressive,Potential
+31,Male,Bachelor's,7,3,14.55711267,77,9,Aggressive,Potential
+47,Female,Diploma's,9,5,39.01641107,90,65,Moderate,Potential
+49,Female,PhD,0,3,37.12056922,86,34,Aggressive,Potential
+48,Female,PhD,6,4,1.369595072,13,82,Conservative,Not Potential
+33,Female,Master's,12,3,26.45677065,67,5,Aggressive,Potential
+40,Male,Diploma's,4,5,7.965974119,82,18,Moderate,Not Potential
+25,Female,Diploma's,9,1,44.31135153,46,58,Aggressive,Not Potential
+22,Male,Bachelor's,0,5,44.57929414,53,52,Aggressive,Potential
+47,Female,Diploma's,2,1,21.91729037,3,7,Moderate,Not Potential
+28,Male,Bachelor's,6,2,23.21978092,93,77,Moderate,Not Potential
+24,Male,PhD,9,5,16.16414697,82,9,Aggressive,Potential
+43,Female,Bachelor's,0,5,36.83031495,94,66,Aggressive,Potential
+48,Male,Diploma's,6,4,18.93306815,94,37,Aggressive,Potential
+36,Male,Bachelor's,4,3,14.38962373,8,28,Moderate,Not Potential
+33,Female,Diploma's,0,1,22.61155298,52,14,Moderate,Not Potential
+40,Male,Diploma's,0,1,5.574375919,76,86,Aggressive,Potential
+50,Female,Bachelor's,13,4,38.33016023,77,22,Moderate,Not Potential
+22,Female,Bachelor's,0,4,1.629820064,59,81,Moderate,Not Potential
+47,Female,Master's,10,3,33.22425308,45,45,Conservative,Not Potential
+20,Male,PhD,8,3,10.14322634,53,82,Conservative,Potential
+39,Male,Bachelor's,10,5,12.62020231,73,27,Moderate,Not Potential
+50,Male,Bachelor's,12,2,32.78159993,94,25,Aggressive,Potential
+48,Female,Master's,2,3,50.64717329,36,9,Aggressive,Not Potential
+40,Male,Bachelor's,14,4,39.88587445,22,46,Moderate,Not Potential
+42,Female,Diploma's,12,3,12.29198161,26,3,Conservative,Not Potential
+20,Female,Master's,4,1,9.801237752,69,54,Moderate,Not Potential
+22,Male,Diploma's,10,2,44.31164351,89,65,Moderate,Not Potential
+37,Female,Bachelor's,15,5,23.2091974,65,66,Moderate,Not Potential
+44,Male,Bachelor's,9,1,7.852640141,60,6,Moderate,Not Potential
+29,Male,Bachelor's,11,1,44.11057117,76,54,Aggressive,Potential
+50,Male,Bachelor's,15,2,41.80461765,50,79,Moderate,Not Potential
+41,Male,Master's,8,5,50.19531819,49,30,Aggressive,Potential
+45,Male,Diploma's,5,4,46.48718434,18,73,Aggressive,Not Potential
+22,Female,Bachelor's,11,5,43.58951693,0,18,Moderate,Not Potential
+27,Female,Master's,8,3,3.628719891,39,27,Aggressive,Potential
+33,Female,Bachelor's,7,1,6.220768475,31,80,Aggressive,Potential
+43,Male,Diploma's,7,3,29.44915972,21,27,Aggressive,Not Potential
+37,Male,Master's,0,4,27.57396231,92,18,Conservative,Not Potential
+34,Male,Bachelor's,12,3,23.89816072,65,100,Moderate,Not Potential
+41,Female,Master's,8,5,20.83946627,39,86,Aggressive,Potential
+42,Male,Master's,5,3,22.56052424,37,19,Moderate,Not Potential
+21,Female,Bachelor's,15,4,29.46489671,47,12,Aggressive,Not Potential
+50,Female,Bachelor's,8,4,1.10382588,54,76,Moderate,Not Potential
+46,Male,PhD,2,4,14.03543871,74,42,Moderate,Not Potential
+29,Male,Diploma's,11,5,26.91398603,80,10,Conservative,Not Potential
+21,Female,Master's,2,4,37.11080493,54,47,Moderate,Not Potential
+45,Male,Diploma's,5,1,9.70783462,50,14,Conservative,Not Potential
+36,Female,Bachelor's,8,4,28.34405869,59,16,Conservative,Not Potential
+27,Male,Bachelor's,6,3,36.72298419,7,53,Conservative,Not Potential
+20,Male,PhD,13,3,23.2313829,85,49,Moderate,Not Potential
+28,Female,PhD,12,3,2.354056684,67,27,Moderate,Not Potential
+30,Male,Diploma's,2,5,23.46340792,74,82,Moderate,Not Potential
+41,Female,Diploma's,2,3,15.82224439,71,3,Aggressive,Potential
+35,Male,Master's,1,5,47.48248039,8,21,Aggressive,Not Potential
+26,Female,Bachelor's,8,5,7.230669284,89,85,Moderate,Not Potential
+48,Female,Diploma's,12,4,33.62379778,1,100,Moderate,Not Potential
+29,Male,Bachelor's,14,1,3.635988317,79,38,Conservative,Not Potential
+42,Female,Bachelor's,2,4,23.30852189,94,33,Aggressive,Not Potential
+45,Male,PhD,10,4,28.69897436,69,96,Aggressive,Potential
+22,Male,Bachelor's,4,5,15.89774657,84,43,Moderate,Not Potential
+37,Male,Bachelor's,13,5,23.75378178,89,41,Moderate,Not Potential
+44,Female,Bachelor's,13,3,9.177689727,58,39,Aggressive,Potential
+43,Female,Master's,8,3,16.20619247,18,96,Conservative,Potential
+32,Male,Bachelor's,7,4,32.05531625,27,11,Moderate,Not Potential
+47,Male,Bachelor's,1,2,16.09000279,71,1,Moderate,Not Potential
+45,Female,Bachelor's,2,2,45.98715392,13,27,Conservative,Not Potential
+26,Male,Master's,15,3,32.42034788,23,73,Moderate,Not Potential
+44,Male,Bachelor's,15,2,22.93245092,43,85,Moderate,Not Potential
+23,Female,Diploma's,1,3,2.937846778,100,80,Conservative,Not Potential
+32,Male,Bachelor's,15,5,25.97741676,55,89,Aggressive,Potential
+39,Female,Bachelor's,7,4,39.23881211,89,66,Moderate,Not Potential
+20,Male,Diploma's,5,1,14.2778799,94,70,Aggressive,Potential
+27,Female,Master's,5,4,41.33867848,50,71,Aggressive,Potential
+33,Male,Bachelor's,11,3,13.5903383,31,83,Conservative,Not Potential
+35,Male,Master's,14,3,42.1873194,49,75,Moderate,Not Potential
+33,Female,Bachelor's,8,4,5.263417081,40,98,Moderate,Not Potential
+31,Male,Master's,7,3,44.30918544,65,80,Conservative,Potential
+38,Female,Diploma's,3,2,25.95932255,24,91,Conservative,Not Potential
+42,Male,Bachelor's,14,2,15.82687948,60,9,Conservative,Not Potential
+34,Female,PhD,11,3,14.25566252,65,85,Moderate,Potential
+47,Female,Master's,3,3,22.60052795,41,56,Moderate,Not Potential
+21,Female,Bachelor's,8,2,50.95247491,64,96,Aggressive,Potential
+21,Female,Bachelor's,0,3,12.01636967,35,85,Moderate,Not Potential
+42,Male,Master's,12,3,6.160832444,75,36,Moderate,Potential
+50,Male,Bachelor's,1,4,30.25175844,8,76,Moderate,Not Potential
+41,Female,Master's,1,1,25.42712332,35,90,Moderate,Not Potential
+38,Female,Master's,12,2,27.20981355,91,63,Conservative,Potential
+44,Female,Diploma's,12,4,34.34677088,37,78,Moderate,Not Potential
+45,Male,Diploma's,5,1,14.35720349,32,85,Moderate,Not Potential
+50,Male,Bachelor's,14,3,46.53324977,41,93,Moderate,Not Potential
+49,Male,Diploma's,3,3,22.78360331,60,39,Aggressive,Not Potential
+48,Male,Bachelor's,15,4,7.454309757,45,100,Aggressive,Potential
+41,Female,PhD,12,3,38.11493784,85,97,Moderate,Potential
+45,Female,Bachelor's,10,5,33.15521763,88,59,Aggressive,Potential
+45,Female,Master's,9,4,16.78717012,60,97,Moderate,Potential
+41,Male,Bachelor's,12,1,32.0759362,17,47,Moderate,Not Potential
+36,Male,Bachelor's,2,4,11.99309782,69,98,Aggressive,Potential
+39,Male,Diploma's,2,2,23.24196797,81,18,Aggressive,Not Potential
+29,Female,Bachelor's,2,4,45.97062611,79,71,Moderate,Not Potential
+25,Female,Bachelor's,5,3,7.676711658,14,32,Moderate,Not Potential
+34,Male,Bachelor's,13,3,20.3348225,47,43,Moderate,Not Potential
+41,Female,Master's,15,5,42.05712124,71,91,Moderate,Potential
+30,Male,Bachelor's,7,5,49.47454497,12,36,Moderate,Not Potential
+47,Male,Bachelor's,10,5,23.69630682,42,88,Conservative,Not Potential
+24,Female,Bachelor's,6,1,26.34998101,59,35,Moderate,Not Potential
+20,Male,Diploma's,13,5,29.60859809,56,80,Conservative,Not Potential
+27,Female,Bachelor's,3,1,47.61740708,70,87,Aggressive,Potential
+40,Male,Diploma's,10,5,43.91033955,16,20,Moderate,Not Potential
+47,Female,Diploma's,11,1,9.530056231,49,1,Moderate,Not Potential
+31,Female,Diploma's,3,4,22.83789089,31,30,Aggressive,Not Potential
+31,Female,Bachelor's,10,4,24.20002141,21,96,Aggressive,Potential
+24,Male,Master's,9,3,40.45480558,54,29,Moderate,Not Potential
+26,Male,Bachelor's,14,1,31.14464413,56,75,Aggressive,Potential
+23,Female,Bachelor's,10,2,33.7110231,12,43,Aggressive,Not Potential
+25,Female,Bachelor's,15,3,50.90999538,46,11,Conservative,Not Potential
+32,Male,Diploma's,10,4,4.748002174,86,50,Conservative,Not Potential
+39,Male,Master's,13,1,12.15049118,61,48,Moderate,Potential
+49,Male,Bachelor's,10,5,21.39479687,53,23,Moderate,Not Potential
+34,Female,Bachelor's,1,2,18.38912015,28,23,Conservative,Not Potential
+22,Male,Bachelor's,13,4,2.082278067,21,59,Moderate,Not Potential
+42,Male,Diploma's,15,3,5.588880324,64,10,Aggressive,Potential
+27,Female,Bachelor's,0,1,35.04766457,28,12,Conservative,Not Potential
+39,Male,Bachelor's,8,2,44.96622317,47,90,Moderate,Not Potential
+35,Male,Master's,11,1,26.71135056,4,71,Moderate,Not Potential
+32,Male,Diploma's,14,5,27.95955398,34,73,Moderate,Not Potential
+37,Female,Bachelor's,11,3,13.75467164,73,71,Moderate,Not Potential
+47,Female,Bachelor's,1,1,39.39381818,82,63,Conservative,Not Potential
+29,Female,Diploma's,12,4,38.58972937,100,19,Moderate,Not Potential
+49,Female,Bachelor's,7,3,30.41828446,70,71,Conservative,Potential
+38,Female,Master's,14,4,11.63321433,45,72,Conservative,Not Potential
+36,Female,Master's,15,1,5.850910912,34,70,Moderate,Not Potential
+43,Female,Bachelor's,8,3,4.211928793,44,77,Moderate,Not Potential
+50,Male,Master's,3,4,30.63480333,12,27,Moderate,Not Potential
+38,Male,PhD,7,5,42.25176596,9,1,Aggressive,Potential
+47,Female,Master's,8,5,43.91652159,65,42,Aggressive,Potential
+45,Male,Diploma's,9,1,24.18110372,69,7,Moderate,Not Potential
+42,Male,Master's,9,3,40.21356497,71,12,Moderate,Potential
+45,Female,Bachelor's,4,2,48.34400982,99,84,Aggressive,Potential
+24,Male,PhD,15,3,14.75850562,24,91,Aggressive,Potential
+45,Male,Bachelor's,12,5,20.89801732,43,34,Conservative,Not Potential
+40,Male,Diploma's,13,4,47.57394963,59,22,Moderate,Not Potential
+49,Male,Master's,6,2,17.91154837,46,45,Conservative,Not Potential
+42,Male,Bachelor's,15,1,46.69381452,39,14,Moderate,Not Potential
+50,Female,PhD,9,2,50.05224311,6,1,Moderate,Not Potential
+28,Female,PhD,3,1,34.09053643,45,60,Aggressive,Potential
+31,Female,Bachelor's,0,2,41.84451448,22,75,Moderate,Not Potential
+40,Male,Diploma's,2,1,38.47727821,82,63,Moderate,Not Potential
+20,Female,Bachelor's,4,1,35.97671288,45,51,Aggressive,Not Potential
+45,Male,Diploma's,2,2,16.34655365,85,35,Moderate,Not Potential
+45,Male,Diploma's,15,2,3.854716895,12,66,Moderate,Not Potential
+20,Male,Master's,11,1,18.15258663,20,68,Moderate,Potential
+34,Male,Bachelor's,12,5,34.34679926,0,66,Moderate,Not Potential
+21,Female,Bachelor's,10,2,6.126459911,18,46,Moderate,Not Potential
+49,Female,PhD,6,3,1.595899149,59,82,Moderate,Potential
+41,Male,Bachelor's,11,4,7.98461863,32,1,Conservative,Not Potential
+35,Female,Bachelor's,8,1,36.78679632,3,43,Conservative,Not Potential
+44,Male,PhD,14,1,49.63968508,2,100,Conservative,Not Potential
+27,Female,Diploma's,11,4,50.15323498,90,63,Moderate,Not Potential
+32,Female,Master's,5,5,25.69895746,51,80,Moderate,Potential
+40,Male,PhD,12,4,44.46761505,98,77,Moderate,Potential
+20,Female,PhD,9,2,37.84132279,27,27,Aggressive,Potential
+35,Male,Bachelor's,0,4,26.05201185,69,90,Conservative,Not Potential
+48,Female,Bachelor's,15,1,29.63802665,69,53,Moderate,Not Potential
+26,Male,Bachelor's,6,4,7.861357331,54,73,Aggressive,Potential
+50,Male,Master's,14,3,47.88307303,56,66,Aggressive,Potential
+24,Female,Master's,2,2,18.59648854,86,35,Conservative,Not Potential
+41,Female,Bachelor's,4,4,23.30746282,96,62,Aggressive,Potential
+48,Male,Bachelor's,15,1,34.58301155,15,24,Aggressive,Not Potential
+42,Female,Diploma's,9,2,17.69512358,23,85,Moderate,Not Potential
+22,Female,Diploma's,3,1,13.71295805,68,47,Aggressive,Potential
+31,Male,Master's,9,5,32.55246966,40,38,Conservative,Not Potential
+45,Male,Bachelor's,4,3,2.249204114,76,46,Moderate,Not Potential
+35,Female,PhD,4,5,37.0362556,46,93,Moderate,Not Potential
+38,Male,Master's,5,3,26.70116849,75,20,Conservative,Not Potential
+24,Male,Diploma's,13,4,31.28768653,68,29,Moderate,Not Potential
+41,Male,Bachelor's,9,2,32.59400796,100,91,Moderate,Not Potential
+44,Female,Bachelor's,11,4,27.35250782,30,30,Moderate,Not Potential
+48,Female,Bachelor's,9,3,30.12668887,91,25,Moderate,Not Potential
+33,Male,Master's,12,3,35.18941004,91,21,Moderate,Not Potential
+47,Female,Master's,12,3,38.65594236,29,20,Moderate,Not Potential
+24,Male,Master's,10,1,37.37261956,17,0,Conservative,Not Potential
+34,Female,Bachelor's,5,2,44.48082289,43,36,Moderate,Not Potential
+36,Male,Diploma's,15,4,10.47217166,26,76,Conservative,Not Potential
+49,Male,Master's,7,4,21.05739847,98,84,Moderate,Potential
+33,Female,Diploma's,7,5,48.3898033,25,45,Moderate,Not Potential
+49,Male,Bachelor's,10,3,20.82952872,59,8,Conservative,Not Potential
+39,Female,Diploma's,8,3,7.243503845,17,16,Aggressive,Not Potential
+24,Female,Bachelor's,7,3,27.27225632,96,46,Moderate,Not Potential
+31,Male,Diploma's,12,4,6.474548628,88,84,Moderate,Not Potential
+35,Male,Bachelor's,10,5,11.14266194,55,94,Moderate,Not Potential
+45,Female,PhD,1,1,50.91593783,30,58,Aggressive,Not Potential
+45,Male,Diploma's,13,2,28.06813192,100,53,Moderate,Not Potential
+35,Male,Diploma's,13,1,15.20291945,58,85,Moderate,Not Potential
+40,Male,Bachelor's,11,4,50.73874773,1,11,Moderate,Not Potential
+26,Male,Master's,9,3,49.32794593,96,63,Conservative,Potential
+23,Male,Bachelor's,11,2,23.03695205,38,5,Conservative,Not Potential
+20,Female,Bachelor's,10,4,14.02015544,60,52,Moderate,Not Potential
+49,Female,Diploma's,14,4,42.9199819,62,15,Conservative,Not Potential
+49,Male,Master's,15,4,36.78103585,95,89,Moderate,Potential
+24,Male,Bachelor's,0,2,35.34707175,17,4,Moderate,Not Potential
+42,Male,Master's,9,2,45.65568707,16,72,Moderate,Not Potential
+45,Female,PhD,1,5,35.47085669,97,45,Moderate,Not Potential
+29,Male,Bachelor's,1,5,15.18989715,38,13,Aggressive,Not Potential
+41,Female,Master's,11,1,35.69315809,70,43,Moderate,Not Potential
+24,Female,Diploma's,2,2,16.29067556,53,62,Moderate,Not Potential
+23,Female,Master's,9,2,38.96194898,98,93,Moderate,Potential
+21,Male,Bachelor's,6,2,31.98739272,93,51,Conservative,Not Potential
+39,Female,Master's,1,5,4.870577599,75,25,Moderate,Not Potential
+50,Male,Diploma's,13,4,26.64176812,34,52,Aggressive,Potential
+29,Female,Diploma's,15,3,18.16504846,10,28,Moderate,Not Potential
+45,Male,Bachelor's,0,5,17.42853164,60,18,Moderate,Not Potential
+38,Female,Bachelor's,15,2,31.11281512,43,46,Moderate,Not Potential
+45,Male,Bachelor's,13,5,17.11624122,67,7,Aggressive,Potential
+20,Female,Bachelor's,5,1,39.84468741,24,22,Moderate,Not Potential
+43,Male,Diploma's,8,2,4.539571801,47,34,Conservative,Not Potential
+24,Male,Bachelor's,14,1,34.01941262,31,94,Moderate,Not Potential
+32,Male,Master's,2,2,41.45974018,83,52,Conservative,Not Potential
+23,Male,Bachelor's,5,5,34.6415845,94,98,Conservative,Not Potential
+35,Female,Diploma's,2,4,25.86145975,3,95,Aggressive,Not Potential
+43,Female,Bachelor's,13,3,48.51535069,37,57,Moderate,Not Potential
+35,Male,Diploma's,12,1,15.99692449,62,4,Moderate,Not Potential
+42,Female,PhD,0,5,1.958394376,46,15,Aggressive,Potential
+21,Male,Diploma's,13,4,22.59946857,0,16,Moderate,Not Potential
+36,Male,Master's,12,5,2.650596795,2,31,Moderate,Not Potential
+47,Female,PhD,15,1,48.69683763,100,95,Aggressive,Potential
+46,Male,Master's,11,3,11.49590229,85,51,Conservative,Not Potential
+39,Male,Bachelor's,4,5,40.4463512,61,19,Moderate,Not Potential
+43,Female,Master's,9,2,39.72860416,63,65,Conservative,Potential
+31,Male,PhD,13,4,11.88644498,16,83,Moderate,Potential
+37,Male,Bachelor's,12,5,32.06132652,77,81,Conservative,Not Potential
+22,Male,Bachelor's,10,4,3.403948424,61,0,Moderate,Not Potential
+47,Male,Bachelor's,3,2,25.17872929,34,57,Aggressive,Not Potential
+20,Female,Bachelor's,6,3,1.732356364,12,92,Moderate,Not Potential
+20,Female,Bachelor's,5,3,47.05719401,34,92,Moderate,Not Potential
+48,Female,Bachelor's,9,2,49.80430121,42,82,Moderate,Not Potential
+38,Male,Bachelor's,6,4,12.11413833,1,43,Moderate,Not Potential
+30,Male,Diploma's,4,5,11.40530173,55,5,Aggressive,Potential
+24,Female,Diploma's,14,2,38.68600883,76,49,Moderate,Not Potential
+31,Male,Bachelor's,14,1,13.66896994,50,71,Moderate,Not Potential
+22,Male,Diploma's,3,4,45.75382796,53,87,Moderate,Not Potential
+20,Male,Bachelor's,15,3,29.69645681,15,19,Moderate,Not Potential
+20,Male,Bachelor's,6,2,18.53888115,17,13,Conservative,Not Potential
+27,Female,Master's,6,3,42.63468732,6,4,Moderate,Not Potential
+29,Female,Diploma's,5,4,25.67033502,44,40,Moderate,Not Potential
+30,Female,Bachelor's,7,3,46.58164569,35,39,Conservative,Not Potential
+31,Male,Master's,3,2,47.40071184,40,33,Moderate,Not Potential
+48,Female,Bachelor's,9,4,9.271007606,93,79,Aggressive,Potential
+32,Female,Diploma's,4,1,1.116170307,41,44,Aggressive,Not Potential
+31,Male,Master's,3,2,50.19654701,6,70,Moderate,Not Potential
+50,Male,Master's,11,5,46.30687681,14,79,Aggressive,Potential
+33,Female,Bachelor's,0,2,3.772261785,59,70,Moderate,Not Potential
+21,Female,Bachelor's,11,4,42.6517132,39,26,Aggressive,Not Potential
+48,Female,PhD,7,2,23.89024663,82,77,Aggressive,Potential
+38,Female,Bachelor's,0,1,13.94808025,36,77,Moderate,Not Potential
+37,Male,Bachelor's,4,1,44.93732618,65,43,Conservative,Not Potential
+22,Female,Master's,14,5,10.83336162,54,32,Moderate,Not Potential
+42,Female,Bachelor's,5,3,48.36499997,76,32,Conservative,Not Potential
+36,Male,Bachelor's,5,4,11.28107438,94,43,Conservative,Not Potential
+45,Female,Bachelor's,12,4,31.68415939,79,19,Aggressive,Potential
+27,Male,Master's,4,3,12.15431673,55,35,Moderate,Not Potential
+48,Male,Bachelor's,15,1,28.28343325,43,6,Moderate,Not Potential
+45,Male,Bachelor's,2,1,35.1987565,56,31,Conservative,Not Potential
+29,Female,Bachelor's,14,2,10.51139654,5,66,Moderate,Not Potential
+45,Female,Bachelor's,4,5,27.04428914,91,38,Conservative,Not Potential
+49,Male,Bachelor's,11,5,24.45298722,31,92,Aggressive,Potential
+21,Female,Master's,7,5,4.55187107,73,23,Aggressive,Potential
+38,Female,Bachelor's,13,2,41.91539088,17,85,Moderate,Not Potential
+28,Male,Diploma's,1,5,17.78412003,67,69,Moderate,Not Potential
+26,Male,Master's,15,3,29.72910988,72,87,Aggressive,Potential
+23,Female,Diploma's,5,2,26.73921175,6,86,Moderate,Not Potential
+45,Male,PhD,8,3,26.66302523,7,53,Aggressive,Potential
+40,Female,Diploma's,7,2,6.36111971,63,37,Moderate,Not Potential
+37,Female,Bachelor's,13,5,22.17410046,6,73,Conservative,Not Potential
+32,Female,Diploma's,10,3,23.61833796,40,79,Conservative,Not Potential
+30,Female,PhD,7,3,37.68214202,39,74,Moderate,Potential
+48,Male,Bachelor's,7,3,43.0009416,2,31,Moderate,Not Potential
+43,Male,Diploma's,14,2,28.24911391,16,44,Moderate,Not Potential
+23,Male,Bachelor's,12,4,5.339147703,65,60,Aggressive,Potential
+44,Male,Diploma's,6,5,12.84247353,78,69,Moderate,Potential
+40,Female,Diploma's,7,3,9.246701343,92,87,Aggressive,Potential
+48,Female,PhD,12,4,7.230753159,51,96,Conservative,Potential
+44,Male,Bachelor's,5,5,19.29496493,21,52,Conservative,Not Potential
+23,Female,Master's,1,5,12.46967511,3,50,Moderate,Not Potential
+29,Female,Bachelor's,1,3,11.91515559,5,75,Moderate,Not Potential
+24,Female,Bachelor's,7,3,3.734658729,37,55,Aggressive,Not Potential
+28,Male,Diploma's,10,2,1.88350224,25,26,Moderate,Not Potential
+43,Male,Bachelor's,0,4,6.138412132,10,37,Moderate,Not Potential
+22,Male,Master's,5,4,9.609873971,89,61,Moderate,Not Potential
+36,Female,PhD,12,3,22.54918644,16,17,Aggressive,Potential
+22,Male,Bachelor's,15,5,26.52601306,87,63,Conservative,Not Potential
+35,Male,Bachelor's,5,3,8.029595909,91,76,Moderate,Not Potential
+23,Male,Bachelor's,15,5,22.23916708,98,29,Conservative,Not Potential
+37,Male,PhD,10,5,18.08744212,30,48,Conservative,Not Potential
+36,Male,Bachelor's,3,3,10.17118217,76,40,Conservative,Not Potential
+26,Male,Bachelor's,11,1,1.342037407,34,12,Aggressive,Potential
+43,Female,Master's,10,4,24.35089333,15,33,Aggressive,Potential
+42,Female,Diploma's,12,5,35.28258746,78,99,Moderate,Not Potential
+49,Male,Diploma's,14,5,12.31386671,17,93,Aggressive,Potential
+24,Male,Bachelor's,10,1,7.590341495,100,24,Moderate,Not Potential
+31,Female,PhD,15,2,45.35213722,61,65,Moderate,Potential
+36,Female,Bachelor's,12,1,14.75123862,26,99,Moderate,Not Potential
+42,Male,Bachelor's,9,1,12.18063099,34,17,Aggressive,Potential
+32,Male,Bachelor's,2,5,43.85484698,44,4,Conservative,Not Potential
+42,Male,Bachelor's,12,4,41.85535496,34,18,Aggressive,Not Potential
+44,Male,Bachelor's,10,1,23.41732353,27,41,Moderate,Not Potential
+22,Female,Bachelor's,2,2,25.46194307,8,17,Moderate,Not Potential
+28,Male,Bachelor's,14,3,11.88743524,75,31,Moderate,Not Potential
+49,Male,Bachelor's,14,1,4.915083524,14,20,Moderate,Not Potential
+36,Male,Bachelor's,15,1,29.67159127,20,9,Aggressive,Not Potential
+36,Male,Bachelor's,12,2,5.91724608,51,36,Moderate,Not Potential
+49,Female,Master's,12,4,23.46372735,34,48,Aggressive,Potential
+39,Female,Diploma's,0,1,48.02485993,96,85,Aggressive,Potential
+35,Female,Master's,2,1,48.64171946,50,12,Moderate,Not Potential
+44,Male,Master's,3,4,12.96661433,82,54,Moderate,Not Potential
+41,Male,Bachelor's,10,2,32.205671,54,16,Moderate,Not Potential
+32,Female,Bachelor's,10,1,24.70381321,86,8,Moderate,Not Potential
+46,Male,Bachelor's,4,4,44.78425638,76,87,Conservative,Not Potential
+38,Male,Bachelor's,2,1,14.57154321,43,43,Conservative,Not Potential
+36,Female,Bachelor's,5,3,1.185120342,64,77,Moderate,Not Potential
+23,Female,Diploma's,10,5,9.128060297,92,45,Aggressive,Potential
+31,Female,Bachelor's,13,3,18.47614006,87,7,Moderate,Not Potential
+48,Female,Master's,14,1,16.78605649,79,36,Aggressive,Potential
+28,Male,Bachelor's,11,2,40.56814596,24,18,Moderate,Not Potential
+38,Male,Master's,15,5,35.02803331,86,62,Moderate,Potential
+31,Female,Bachelor's,4,3,15.97781598,91,91,Moderate,Not Potential
+28,Male,Master's,2,4,23.88719086,46,45,Moderate,Not Potential
+26,Female,Bachelor's,5,2,5.777955198,79,93,Aggressive,Potential
+47,Female,Diploma's,5,3,45.90732224,55,70,Moderate,Not Potential
+33,Male,Bachelor's,14,4,47.77124122,37,25,Moderate,Not Potential
+50,Female,Diploma's,13,1,49.99017677,10,45,Moderate,Not Potential
+39,Male,Bachelor's,7,4,44.42764154,66,45,Moderate,Not Potential
+38,Male,PhD,1,3,9.698044385,14,74,Moderate,Not Potential
+45,Male,Diploma's,0,3,3.30982416,0,13,Moderate,Not Potential
+34,Male,Bachelor's,15,1,29.97983637,6,84,Moderate,Not Potential
+35,Female,Master's,3,4,46.63025134,0,62,Aggressive,Potential
+40,Male,Master's,15,4,9.867568083,48,71,Aggressive,Potential
+24,Female,Bachelor's,6,1,1.352145731,95,2,Moderate,Not Potential
+22,Female,Bachelor's,14,4,41.2748023,72,27,Aggressive,Potential
+31,Female,Bachelor's,15,1,4.839784214,28,28,Moderate,Not Potential
+44,Female,Bachelor's,10,2,21.6853016,25,86,Moderate,Not Potential
+39,Male,Master's,9,3,34.94436686,86,17,Conservative,Not Potential
+46,Male,PhD,2,2,12.83987927,44,34,Conservative,Not Potential
+40,Female,Master's,2,5,5.198128172,92,76,Aggressive,Potential
+23,Female,Master's,15,5,39.50106142,96,75,Conservative,Potential
+40,Male,Diploma's,4,5,32.50875424,70,46,Moderate,Not Potential
+42,Female,Master's,4,1,50.42452422,11,4,Moderate,Not Potential
+35,Male,Master's,12,4,18.21540167,94,74,Aggressive,Potential
+44,Female,Diploma's,9,2,4.088119315,31,58,Conservative,Not Potential
+26,Male,Master's,2,2,37.71750177,19,74,Aggressive,Potential
+32,Female,Bachelor's,8,2,27.08667094,50,58,Conservative,Not Potential
+40,Female,Bachelor's,3,2,11.66019657,80,46,Aggressive,Potential
+29,Male,Master's,12,5,40.08644945,35,94,Moderate,Not Potential
+45,Female,Bachelor's,12,2,11.18777429,66,94,Moderate,Not Potential
+26,Female,Diploma's,14,4,14.03308274,0,12,Aggressive,Not Potential
+33,Male,Bachelor's,2,5,5.626427718,26,77,Aggressive,Potential
+50,Female,Bachelor's,10,2,20.97161395,39,88,Moderate,Not Potential
+45,Male,PhD,1,1,21.9464612,96,32,Aggressive,Potential
+24,Male,Bachelor's,9,3,26.72808952,83,96,Moderate,Not Potential
+22,Female,Bachelor's,12,3,36.44821336,13,61,Moderate,Not Potential
+42,Female,Master's,10,3,46.30504643,99,78,Conservative,Potential
+48,Female,Bachelor's,8,5,7.886704944,68,15,Moderate,Not Potential
+30,Female,Bachelor's,3,2,3.717404917,86,43,Aggressive,Not Potential
+30,Female,Bachelor's,15,5,1.92656168,78,57,Moderate,Not Potential
+37,Female,Master's,2,4,8.181068903,5,5,Aggressive,Not Potential
+34,Female,Bachelor's,6,1,33.89747429,32,88,Conservative,Not Potential
+31,Male,Bachelor's,7,1,37.3738539,54,14,Conservative,Not Potential
+28,Female,Diploma's,10,3,40.32528568,18,3,Moderate,Not Potential
+29,Male,Diploma's,13,3,13.1854106,76,55,Aggressive,Potential
+45,Female,Diploma's,1,3,16.29474066,28,63,Conservative,Not Potential
+31,Female,Diploma's,6,2,25.15673228,60,67,Conservative,Not Potential
+36,Male,Bachelor's,11,4,4.159154843,69,93,Conservative,Not Potential
+48,Female,Master's,4,4,31.55707616,78,33,Conservative,Not Potential
+25,Female,Bachelor's,14,4,50.18675168,79,90,Moderate,Potential
+26,Male,Master's,10,4,19.04031557,23,94,Aggressive,Potential
+33,Female,PhD,4,3,38.64237375,22,55,Moderate,Not Potential
+32,Female,Master's,2,1,26.00169578,9,31,Moderate,Not Potential
+27,Female,Bachelor's,4,3,7.390592218,53,8,Moderate,Not Potential
+29,Male,Bachelor's,11,4,30.11187244,40,62,Moderate,Not Potential
+28,Female,Bachelor's,1,3,15.99371342,48,71,Aggressive,Potential
+37,Female,Diploma's,3,4,2.720160423,16,77,Moderate,Not Potential
+46,Female,Bachelor's,5,5,32.74648651,55,32,Moderate,Not Potential
+45,Female,PhD,0,1,43.94661747,44,86,Aggressive,Potential
+21,Male,Master's,9,5,18.23848834,29,20,Moderate,Not Potential
+24,Male,Bachelor's,3,2,20.51477736,43,54,Conservative,Not Potential
+48,Female,Bachelor's,5,3,45.55108415,73,75,Conservative,Not Potential
+24,Female,Master's,8,2,41.68044067,54,56,Moderate,Not Potential
+25,Male,Diploma's,13,3,36.74764118,18,1,Moderate,Not Potential
+38,Male,Bachelor's,10,5,13.43985319,28,12,Aggressive,Not Potential
+27,Female,Master's,15,4,46.51083275,1,3,Moderate,Not Potential
+35,Male,Bachelor's,10,4,8.720787877,35,83,Moderate,Not Potential
+32,Female,Diploma's,12,3,32.33852597,18,49,Moderate,Not Potential
+20,Male,Bachelor's,1,4,2.440059027,6,47,Conservative,Not Potential
+41,Male,Master's,10,5,33.18599032,25,77,Moderate,Not Potential
+39,Male,Bachelor's,6,4,14.85721759,78,29,Aggressive,Potential
+36,Male,Bachelor's,5,5,23.48384886,37,28,Aggressive,Not Potential
+50,Female,Bachelor's,1,2,18.2632276,2,7,Moderate,Not Potential
+26,Male,Bachelor's,7,5,9.637837812,79,11,Moderate,Not Potential
+44,Male,Bachelor's,6,1,32.0990395,65,40,Conservative,Not Potential
+32,Female,Master's,10,1,45.09877776,94,25,Moderate,Not Potential
+23,Male,Diploma's,4,1,48.95421211,91,49,Moderate,Not Potential
+23,Male,Master's,11,3,10.61731816,70,1,Moderate,Not Potential
+25,Female,Diploma's,4,3,36.8686387,93,54,Moderate,Not Potential
+47,Male,Bachelor's,6,3,34.21696833,42,55,Moderate,Not Potential
+50,Female,Diploma's,8,5,18.16888948,61,13,Moderate,Not Potential
+38,Female,Bachelor's,10,3,1.954959968,70,5,Moderate,Not Potential
+48,Female,Bachelor's,14,2,35.48956237,99,94,Aggressive,Potential
+31,Female,Bachelor's,8,1,48.27474303,92,80,Conservative,Not Potential
+41,Male,Diploma's,8,5,32.6060061,23,88,Moderate,Not Potential
+26,Female,Bachelor's,5,1,22.76463621,38,60,Aggressive,Not Potential
+46,Male,Diploma's,9,3,27.25769471,67,95,Aggressive,Potential
+29,Male,Master's,5,5,10.98144038,92,11,Aggressive,Potential
+45,Male,PhD,2,4,38.52720819,43,12,Moderate,Not Potential
+38,Male,Bachelor's,0,2,38.3209915,4,18,Aggressive,Not Potential
+26,Male,Bachelor's,15,3,8.275865019,54,43,Aggressive,Potential
+49,Male,Bachelor's,6,3,44.89891912,92,88,Moderate,Not Potential
+22,Male,Diploma's,3,2,14.45948697,29,94,Moderate,Not Potential
+32,Male,Bachelor's,0,2,50.11280305,28,58,Aggressive,Not Potential
+32,Male,Master's,14,4,20.1451507,25,36,Moderate,Not Potential
+37,Male,Bachelor's,7,3,9.894202937,82,24,Moderate,Not Potential
+47,Female,Diploma's,11,3,18.58600557,25,15,Conservative,Not Potential
+49,Female,Master's,5,1,23.00901643,36,37,Moderate,Not Potential
+45,Female,Bachelor's,5,5,4.465388652,90,42,Aggressive,Not Potential
+39,Male,Master's,1,5,29.91091906,93,86,Moderate,Not Potential
+47,Female,Bachelor's,14,1,30.88162199,52,13,Moderate,Not Potential
+27,Female,Bachelor's,0,5,37.94652277,29,5,Aggressive,Not Potential
+48,Female,Diploma's,12,2,2.458494615,2,88,Conservative,Not Potential
+50,Male,Diploma's,13,5,28.06191072,42,22,Moderate,Not Potential
+28,Male,PhD,13,5,3.645371664,6,59,Conservative,Not Potential
+26,Male,Bachelor's,1,1,36.057211,48,11,Moderate,Not Potential
+20,Male,PhD,3,4,3.786399285,72,12,Moderate,Not Potential
+22,Female,Bachelor's,1,5,46.58639242,40,99,Moderate,Not Potential
+32,Female,Diploma's,15,5,36.10412834,76,97,Moderate,Potential
+47,Female,Diploma's,0,4,26.36948825,78,5,Moderate,Not Potential
+49,Female,Bachelor's,6,1,23.07519616,53,62,Conservative,Potential
+44,Male,PhD,10,4,7.533631521,68,37,Moderate,Not Potential
+50,Male,Bachelor's,10,1,15.54996948,92,49,Conservative,Not Potential
+47,Male,Bachelor's,14,2,44.44795525,98,51,Conservative,Not Potential
+36,Female,Bachelor's,11,1,46.22264058,90,39,Conservative,Not Potential
+44,Male,Diploma's,7,2,1.037385419,26,7,Moderate,Not Potential
+43,Male,Bachelor's,5,2,30.70681957,7,60,Moderate,Not Potential
+20,Female,Diploma's,3,1,36.96503045,31,7,Aggressive,Not Potential
+25,Female,Master's,13,3,31.93734912,83,96,Moderate,Potential
+40,Male,Bachelor's,5,1,5.083988243,63,33,Aggressive,Not Potential
+25,Male,Bachelor's,2,5,11.88624494,9,78,Aggressive,Potential
+45,Male,Bachelor's,11,5,13.51701337,12,99,Aggressive,Potential
+31,Male,Bachelor's,7,3,42.58623157,62,59,Conservative,Not Potential
+32,Male,PhD,9,2,24.15997182,92,56,Conservative,Not Potential
+32,Male,Bachelor's,13,3,25.3414106,34,98,Moderate,Not Potential
+48,Female,Diploma's,12,5,47.74465233,60,45,Moderate,Not Potential
+34,Female,Bachelor's,12,3,32.85429444,53,21,Moderate,Not Potential
+40,Female,Diploma's,1,1,45.93338508,7,86,Moderate,Not Potential
+35,Male,Diploma's,4,3,23.82544277,28,39,Moderate,Not Potential
+41,Female,PhD,0,2,8.471812926,94,44,Moderate,Not Potential
+40,Male,Master's,5,1,47.4967797,40,54,Moderate,Not Potential
+30,Male,PhD,1,4,23.93525578,29,50,Moderate,Not Potential
+47,Female,Bachelor's,3,5,10.08157109,85,85,Moderate,Not Potential
+24,Male,Bachelor's,5,5,16.11978702,20,4,Moderate,Not Potential
+23,Male,Diploma's,9,3,3.540129484,75,94,Conservative,Not Potential
+22,Female,Bachelor's,10,1,24.41502957,10,12,Aggressive,Not Potential
+38,Female,Master's,7,4,43.6564086,1,27,Moderate,Not Potential
+39,Female,Bachelor's,11,1,47.6790228,49,83,Moderate,Not Potential
+44,Male,Master's,7,5,47.63011038,40,96,Aggressive,Potential
+37,Female,Master's,10,1,7.261501281,65,79,Moderate,Potential
+34,Female,Diploma's,5,4,20.10269413,97,61,Aggressive,Potential
+28,Male,Bachelor's,3,3,2.411437983,2,92,Moderate,Not Potential
+36,Female,Bachelor's,7,2,43.75826725,79,86,Moderate,Not Potential
+33,Female,Bachelor's,12,1,18.9377881,50,23,Moderate,Not Potential
+34,Female,Master's,7,2,32.55585139,67,97,Moderate,Potential
+50,Male,Bachelor's,9,5,36.7449219,86,6,Aggressive,Potential
+20,Male,Diploma's,13,3,22.49223349,83,37,Moderate,Not Potential
+40,Male,Bachelor's,0,3,16.32211683,24,36,Aggressive,Not Potential
+41,Male,PhD,15,1,49.11064551,29,67,Conservative,Potential
+41,Female,Diploma's,3,3,49.22441125,81,97,Conservative,Not Potential
+22,Male,Master's,3,1,15.4718184,10,41,Moderate,Not Potential
+35,Male,Bachelor's,6,1,24.98125484,92,85,Conservative,Potential
+42,Female,Master's,15,2,49.64220793,16,4,Moderate,Not Potential
+44,Female,Master's,13,3,1.243420383,25,63,Conservative,Potential
+30,Female,Bachelor's,13,1,21.63391242,22,49,Moderate,Not Potential
+31,Male,Bachelor's,10,2,6.022877484,55,86,Aggressive,Potential
+29,Male,Master's,6,4,26.45789828,51,14,Conservative,Not Potential
+35,Male,Bachelor's,15,2,2.233497727,47,94,Aggressive,Potential
+27,Female,Master's,12,2,21.34492157,19,72,Aggressive,Potential
+25,Female,Diploma's,10,1,12.03495374,1,52,Aggressive,Not Potential
+31,Male,Master's,14,5,27.66541812,87,24,Moderate,Not Potential
+43,Female,Master's,7,5,50.79968246,30,88,Moderate,Not Potential
+47,Female,PhD,15,5,41.02680526,26,84,Moderate,Potential
+40,Female,Diploma's,10,2,43.28210458,1,8,Conservative,Not Potential
+27,Male,Bachelor's,4,1,32.76324937,77,37,Aggressive,Potential
+45,Female,Bachelor's,6,3,3.077992414,3,21,Conservative,Not Potential
+47,Female,Bachelor's,7,2,11.3398838,12,86,Conservative,Not Potential
+23,Male,Bachelor's,15,2,47.25322782,99,48,Aggressive,Potential
+45,Male,Diploma's,14,1,19.3056559,34,67,Moderate,Not Potential
+27,Female,Master's,8,4,6.181836324,71,92,Conservative,Potential
+45,Female,Bachelor's,2,2,36.12026829,65,14,Moderate,Not Potential
+47,Male,Diploma's,2,4,15.9728862,5,64,Moderate,Not Potential
+37,Male,Bachelor's,3,4,14.44284565,30,53,Moderate,Not Potential
+47,Female,Bachelor's,4,5,50.89887278,9,29,Moderate,Not Potential
+47,Female,Diploma's,9,1,43.90694625,20,92,Aggressive,Potential
+24,Female,PhD,0,4,21.39689092,73,19,Moderate,Not Potential
+28,Female,PhD,14,1,50.01306039,22,32,Aggressive,Potential
+23,Male,Bachelor's,14,5,33.50566117,2,99,Moderate,Not Potential
+46,Female,Diploma's,6,1,38.10112259,31,85,Conservative,Not Potential
+41,Female,Master's,8,2,2.575652154,19,76,Moderate,Potential
+50,Male,Bachelor's,7,4,7.080262967,73,6,Conservative,Not Potential
+36,Female,Bachelor's,14,1,32.65425632,28,7,Moderate,Not Potential
+28,Male,Bachelor's,14,3,45.95119913,51,27,Moderate,Not Potential
+20,Female,Bachelor's,4,1,32.1871863,45,44,Moderate,Not Potential
+40,Female,Bachelor's,13,4,7.701244716,33,72,Conservative,Not Potential
+39,Male,Bachelor's,13,5,6.788002312,100,88,Moderate,Not Potential
+32,Male,Bachelor's,3,5,43.20929479,83,79,Aggressive,Potential
+47,Female,PhD,11,4,7.965116935,60,73,Conservative,Potential
+35,Female,Bachelor's,6,2,27.01159803,71,10,Moderate,Not Potential
+48,Female,Master's,4,2,2.855665998,70,30,Aggressive,Potential
+32,Male,Master's,6,5,5.03348837,69,11,Moderate,Potential
+33,Female,Bachelor's,11,5,34.61741338,10,94,Conservative,Not Potential
+22,Male,Bachelor's,0,4,35.45907052,81,77,Moderate,Not Potential
+48,Male,Bachelor's,0,2,18.07347033,92,50,Moderate,Not Potential
+25,Female,Bachelor's,15,5,11.78048826,88,43,Conservative,Not Potential
+37,Male,Master's,9,2,41.68551354,62,95,Moderate,Potential
+38,Female,Bachelor's,13,5,11.85516147,20,49,Moderate,Not Potential
+24,Female,PhD,12,1,28.10135348,2,16,Aggressive,Potential
+34,Female,Diploma's,2,3,49.41044204,81,34,Aggressive,Not Potential
+44,Female,Diploma's,13,1,8.392621893,87,0,Moderate,Not Potential
+21,Female,Bachelor's,10,5,48.04381337,9,28,Conservative,Not Potential
+29,Male,Bachelor's,1,3,10.14465265,26,50,Aggressive,Not Potential
+43,Male,Bachelor's,1,3,29.3721604,11,63,Moderate,Not Potential
+49,Female,Bachelor's,6,5,19.8503856,6,3,Aggressive,Not Potential
+37,Female,Bachelor's,11,5,49.24643008,16,86,Moderate,Not Potential
+46,Male,Diploma's,9,2,14.67710145,64,27,Aggressive,Potential
+32,Male,PhD,1,5,20.9829001,63,15,Aggressive,Potential
+24,Male,Bachelor's,10,4,50.14300589,25,62,Aggressive,Potential
+42,Male,Master's,3,5,27.82351956,14,75,Moderate,Not Potential
+43,Female,Master's,1,4,26.13150578,32,52,Moderate,Not Potential
+20,Female,PhD,5,5,13.88892441,61,84,Aggressive,Potential
+41,Male,Diploma's,7,2,36.06817802,100,16,Conservative,Not Potential
+20,Female,Master's,9,4,1.718647589,46,39,Aggressive,Potential
+37,Male,Bachelor's,15,1,3.475631485,94,12,Moderate,Not Potential
+34,Female,Bachelor's,3,4,30.96792936,34,51,Conservative,Not Potential
+36,Male,Bachelor's,14,2,18.08372869,64,57,Moderate,Not Potential
+30,Female,Master's,4,4,48.66581861,71,95,Moderate,Not Potential
+40,Male,Bachelor's,3,5,46.15953454,75,36,Aggressive,Not Potential
+45,Male,Master's,2,5,36.68531293,82,78,Moderate,Potential
+50,Female,Bachelor's,4,2,41.90727906,24,75,Moderate,Not Potential
+44,Male,Master's,13,3,34.36659248,56,60,Conservative,Not Potential
+41,Female,PhD,8,5,7.279105136,31,78,Aggressive,Potential
+46,Female,Bachelor's,7,1,39.27716848,62,33,Moderate,Not Potential
+46,Male,PhD,7,2,11.50959844,11,69,Moderate,Not Potential
+36,Female,Diploma's,7,4,17.17214276,62,16,Conservative,Not Potential
+32,Female,Diploma's,11,4,41.96171061,76,19,Aggressive,Potential
+20,Female,Diploma's,7,1,27.82628042,91,72,Conservative,Not Potential
+21,Female,Bachelor's,6,5,43.99703571,0,58,Moderate,Not Potential
+28,Female,Bachelor's,7,2,11.65176599,50,68,Moderate,Not Potential
+22,Male,Diploma's,10,1,31.38892193,69,86,Aggressive,Potential
+50,Female,Diploma's,13,5,5.189548627,7,32,Moderate,Not Potential
+20,Female,PhD,15,2,33.15304968,67,77,Moderate,Potential
+40,Female,Master's,7,4,39.12670189,4,16,Moderate,Not Potential
+35,Female,Master's,12,2,30.2465447,88,56,Aggressive,Potential
+42,Female,Master's,13,3,14.31157507,85,82,Aggressive,Potential
+25,Male,Master's,7,2,2.567133443,91,96,Conservative,Potential
+47,Female,Diploma's,11,3,6.972444198,38,0,Conservative,Not Potential
+36,Male,Bachelor's,9,2,32.11514895,22,12,Moderate,Not Potential
+24,Male,Master's,6,3,47.72101084,67,26,Aggressive,Potential
+50,Male,Bachelor's,11,4,11.3267202,51,69,Moderate,Not Potential
+24,Male,Bachelor's,0,5,37.75130746,3,58,Moderate,Not Potential
+25,Female,Diploma's,3,3,44.32255316,46,5,Conservative,Not Potential
+22,Male,Bachelor's,12,3,27.04410892,20,96,Moderate,Not Potential
+40,Male,Bachelor's,12,4,34.46328979,100,93,Conservative,Not Potential
+42,Female,Bachelor's,15,3,41.75076583,55,98,Conservative,Potential
+24,Female,Bachelor's,3,1,14.03375789,65,22,Conservative,Not Potential
+40,Female,Bachelor's,4,4,15.84478371,58,9,Aggressive,Not Potential
+24,Male,Diploma's,9,1,1.031375831,6,50,Aggressive,Not Potential
+29,Female,Diploma's,5,4,49.15470654,48,18,Moderate,Not Potential
+29,Female,Master's,3,3,46.87724473,15,50,Moderate,Not Potential
+38,Male,Bachelor's,14,1,39.22841319,16,91,Aggressive,Potential
+36,Female,Diploma's,1,3,4.953801049,83,86,Aggressive,Potential
+40,Female,Master's,15,4,23.37514448,86,67,Moderate,Potential
+33,Female,Bachelor's,5,3,6.094587699,97,83,Moderate,Not Potential
+28,Female,Bachelor's,14,1,1.796013363,74,82,Moderate,Not Potential
+33,Male,Diploma's,7,1,31.80914826,33,41,Moderate,Not Potential
+20,Female,Master's,14,3,49.04147085,32,90,Moderate,Not Potential
+38,Female,Bachelor's,7,2,46.14340117,25,56,Moderate,Not Potential
+32,Male,Bachelor's,6,4,35.83774075,65,97,Aggressive,Potential
+32,Female,Master's,5,4,5.832029208,62,67,Moderate,Not Potential
+23,Male,Bachelor's,1,3,14.70820188,86,37,Moderate,Not Potential
+49,Female,Bachelor's,14,2,17.00283634,40,61,Aggressive,Potential
+20,Male,Diploma's,6,1,39.15750289,85,6,Moderate,Not Potential
+36,Male,Bachelor's,10,5,41.11245896,57,70,Moderate,Potential
+27,Male,Diploma's,11,5,20.25530615,97,49,Moderate,Not Potential
+21,Male,Bachelor's,13,3,21.89419983,78,51,Moderate,Not Potential
+47,Female,Master's,15,2,3.225451964,9,25,Moderate,Not Potential
+50,Male,Bachelor's,13,2,15.45683592,14,25,Moderate,Not Potential
+27,Female,Bachelor's,4,4,23.56425886,41,18,Conservative,Not Potential
+26,Male,Diploma's,15,1,6.849152319,92,8,Aggressive,Potential
+45,Male,Bachelor's,5,2,23.66337304,56,60,Conservative,Not Potential
+45,Male,Bachelor's,9,5,43.65879061,86,19,Moderate,Not Potential
+21,Female,Master's,7,1,30.06605099,16,49,Aggressive,Potential
+41,Male,Diploma's,15,1,4.946492752,59,79,Aggressive,Potential
+41,Female,Master's,13,3,10.58356594,8,80,Moderate,Not Potential
+22,Female,Master's,7,2,24.72721751,35,21,Moderate,Not Potential
+46,Female,Bachelor's,2,3,19.07435749,72,12,Aggressive,Potential
+37,Female,Master's,11,2,18.93635098,79,11,Aggressive,Potential
+31,Female,Bachelor's,15,4,27.46337241,35,9,Moderate,Not Potential
+20,Female,Bachelor's,11,3,30.21979608,47,64,Aggressive,Potential
+41,Female,Bachelor's,13,3,40.84307851,50,95,Conservative,Not Potential
+31,Female,Bachelor's,6,5,18.04832817,96,29,Moderate,Not Potential
+24,Female,Bachelor's,0,3,41.27331415,94,7,Moderate,Not Potential
+49,Male,Bachelor's,0,2,17.93056146,69,20,Moderate,Not Potential
+49,Male,Bachelor's,6,5,3.771649447,73,21,Aggressive,Potential
+46,Male,Bachelor's,14,3,28.70938255,79,17,Conservative,Not Potential
+44,Male,Diploma's,14,3,30.39511624,67,65,Aggressive,Potential
+36,Male,PhD,9,4,47.72701228,21,47,Moderate,Not Potential
+35,Female,Master's,8,3,37.3030663,76,43,Moderate,Potential
+50,Female,Bachelor's,6,1,46.88863262,79,8,Aggressive,Potential
+34,Female,Diploma's,9,5,46.41736051,92,66,Moderate,Not Potential
+42,Female,Master's,4,1,31.22870551,5,53,Conservative,Not Potential
+34,Female,Master's,7,5,27.38810327,25,25,Moderate,Not Potential
+24,Female,Master's,1,4,28.87204836,74,84,Conservative,Potential
+40,Female,Bachelor's,8,3,49.91654038,87,93,Conservative,Not Potential
+33,Male,Bachelor's,5,3,39.65838459,92,91,Moderate,Not Potential
+21,Male,Diploma's,12,3,6.31329524,2,99,Moderate,Not Potential
+30,Male,Diploma's,8,5,39.92142034,51,25,Moderate,Not Potential
+38,Male,Master's,15,3,9.526902445,73,33,Moderate,Not Potential
+26,Female,Master's,1,1,23.36752745,59,7,Aggressive,Potential
+25,Female,Bachelor's,2,3,11.52298361,62,9,Conservative,Not Potential
+47,Female,Master's,11,4,35.47915328,64,47,Moderate,Potential
+21,Male,Bachelor's,7,1,44.86548681,51,54,Moderate,Not Potential
+25,Female,Bachelor's,0,3,15.51809427,89,53,Moderate,Not Potential
+37,Female,Bachelor's,14,3,5.10053706,75,77,Moderate,Not Potential
+21,Female,PhD,9,2,15.9246549,13,39,Conservative,Not Potential
+37,Male,Diploma's,14,5,34.6180929,88,14,Moderate,Not Potential
+49,Female,PhD,14,1,17.43800638,71,80,Aggressive,Potential
+34,Male,Master's,14,2,14.90560838,67,17,Aggressive,Potential
+46,Male,Diploma's,6,4,10.22175953,27,95,Conservative,Not Potential
+38,Male,Bachelor's,6,5,25.87582134,70,22,Moderate,Not Potential
+50,Male,Master's,12,1,14.79744141,9,61,Conservative,Not Potential
+21,Female,Bachelor's,0,3,37.55051746,56,45,Aggressive,Not Potential
+39,Male,PhD,15,1,4.8311201,99,86,Aggressive,Potential
+44,Male,PhD,8,3,34.20165166,65,98,Aggressive,Potential
+25,Female,Bachelor's,7,5,12.87800073,89,38,Moderate,Not Potential
+20,Female,Bachelor's,3,3,25.46396305,49,14,Moderate,Not Potential
+43,Male,PhD,9,4,15.3044961,13,52,Aggressive,Potential
+34,Female,Bachelor's,10,3,37.1384338,15,87,Moderate,Not Potential
+47,Male,Diploma's,4,4,48.26535201,53,63,Moderate,Not Potential
+49,Male,Diploma's,1,5,46.85383897,42,62,Aggressive,Not Potential
+42,Male,Bachelor's,12,5,30.17131076,41,91,Moderate,Not Potential
+29,Male,PhD,15,1,24.13051516,80,79,Moderate,Potential
+38,Female,Master's,8,4,41.91502547,21,15,Aggressive,Potential
+36,Male,Bachelor's,14,4,35.16631813,67,69,Aggressive,Potential
+24,Female,Diploma's,11,2,10.17820571,18,65,Moderate,Not Potential
+48,Female,Bachelor's,11,2,42.04596068,65,12,Moderate,Not Potential
+23,Female,Master's,5,2,22.44421947,38,46,Conservative,Not Potential
+29,Female,Diploma's,2,3,10.449283,72,8,Moderate,Not Potential
+43,Male,Bachelor's,11,2,15.08986752,18,62,Aggressive,Potential
+36,Female,Diploma's,6,4,14.37635151,15,33,Conservative,Not Potential
+29,Male,Bachelor's,8,3,26.96034873,53,80,Conservative,Potential
+36,Female,PhD,2,5,12.71850453,24,90,Moderate,Not Potential
+47,Female,Bachelor's,15,1,7.17832437,17,28,Conservative,Not Potential
+39,Male,Bachelor's,1,2,7.184542531,22,36,Moderate,Not Potential
+43,Male,Bachelor's,15,5,30.16380986,84,42,Moderate,Not Potential
+24,Male,PhD,6,4,37.73796444,10,85,Moderate,Not Potential
+21,Female,Diploma's,6,1,17.07665044,38,63,Moderate,Not Potential
+25,Female,Bachelor's,3,5,2.732535491,67,23,Aggressive,Potential
+40,Male,Bachelor's,10,1,7.361244347,24,70,Conservative,Not Potential
+21,Male,Master's,8,2,46.73472802,62,33,Conservative,Potential
+32,Male,Bachelor's,15,4,25.67718298,95,47,Moderate,Not Potential
+49,Male,Diploma's,13,1,23.67864048,29,11,Moderate,Not Potential
+30,Female,Bachelor's,7,5,2.902458916,44,22,Aggressive,Not Potential
+30,Male,Master's,12,2,37.43185112,89,78,Aggressive,Potential
+35,Male,Diploma's,12,2,27.40340405,60,96,Aggressive,Potential
+30,Male,Master's,0,5,11.1040468,99,12,Moderate,Not Potential
+38,Male,Diploma's,0,5,6.503688009,50,86,Conservative,Not Potential
+34,Female,Bachelor's,4,1,20.16939318,97,95,Aggressive,Potential
+44,Male,Bachelor's,5,3,42.85809821,8,44,Aggressive,Not Potential
+42,Female,Master's,2,2,44.26472796,75,98,Moderate,Potential
+42,Male,Bachelor's,12,1,31.14231902,1,64,Aggressive,Potential
+35,Male,Master's,8,5,37.37682136,4,46,Conservative,Not Potential
+50,Female,Master's,11,1,6.75778937,61,57,Moderate,Not Potential
+30,Male,Bachelor's,9,5,30.40630327,68,4,Aggressive,Potential
+41,Female,Master's,13,4,34.34828517,51,76,Aggressive,Potential
+35,Female,Master's,14,5,11.03564215,85,4,Aggressive,Potential
+27,Male,Diploma's,5,5,45.00773665,4,59,Moderate,Not Potential
+23,Female,Bachelor's,3,5,10.74983688,58,95,Aggressive,Potential
+27,Female,PhD,11,3,16.67386799,67,20,Moderate,Not Potential
+23,Female,Diploma's,6,5,32.02784235,8,23,Moderate,Not Potential
+43,Female,Master's,7,2,32.91750326,92,17,Aggressive,Potential
+44,Female,PhD,8,2,35.96923705,21,20,Aggressive,Potential
+22,Female,Diploma's,12,1,6.600585653,26,53,Moderate,Not Potential
+22,Female,Bachelor's,15,3,43.4732215,9,9,Moderate,Not Potential
+46,Female,Bachelor's,10,1,27.64235661,79,23,Conservative,Not Potential
+48,Male,Bachelor's,5,2,24.56608971,60,84,Aggressive,Potential
+37,Male,Diploma's,14,2,50.05488123,50,88,Aggressive,Potential
+48,Female,Diploma's,5,4,38.01891485,9,59,Aggressive,Not Potential
+45,Male,Bachelor's,7,5,6.900301331,5,56,Moderate,Not Potential
+38,Female,Master's,11,2,38.82695836,61,22,Moderate,Potential
+38,Female,Master's,4,1,5.762446699,4,21,Conservative,Not Potential
+40,Male,Bachelor's,13,1,2.373528126,69,67,Moderate,Not Potential
+24,Female,Diploma's,2,5,21.18129476,62,33,Aggressive,Potential
+37,Female,Bachelor's,11,5,50.67890864,55,69,Moderate,Not Potential
+47,Female,Bachelor's,2,4,9.74419681,58,27,Conservative,Not Potential
+29,Female,PhD,12,3,34.63221718,62,94,Moderate,Potential
+48,Male,Master's,5,1,9.66980331,88,98,Moderate,Not Potential
+41,Female,Master's,1,5,37.23934875,58,38,Conservative,Not Potential
+40,Female,PhD,15,1,26.26768341,50,41,Moderate,Not Potential
+25,Female,Diploma's,5,5,34.9985855,49,22,Moderate,Not Potential
+20,Male,Master's,15,2,11.1436588,3,69,Aggressive,Potential
+24,Female,Bachelor's,12,1,38.28141663,47,79,Moderate,Not Potential
+28,Male,PhD,5,2,50.78095298,31,1,Aggressive,Not Potential
+31,Male,Bachelor's,7,1,34.28252503,50,23,Moderate,Not Potential
+45,Female,Master's,6,3,25.6739999,51,16,Aggressive,Potential
+33,Female,Master's,7,4,47.15869943,98,64,Conservative,Potential
+21,Male,Diploma's,13,2,1.792592112,73,69,Conservative,Not Potential
+36,Female,Bachelor's,8,5,37.49617596,33,68,Moderate,Not Potential
+33,Male,Master's,5,3,45.43732584,35,59,Aggressive,Potential
+45,Male,Bachelor's,13,1,4.083729181,69,49,Aggressive,Potential
+32,Female,Bachelor's,15,2,23.50320852,42,92,Moderate,Not Potential
+46,Female,Bachelor's,2,1,11.2359727,15,11,Moderate,Not Potential
+28,Male,Diploma's,9,1,29.32590828,58,46,Moderate,Not Potential
+45,Male,Master's,2,1,33.47714793,52,66,Moderate,Not Potential
+44,Male,Bachelor's,15,4,16.13115915,18,64,Moderate,Not Potential
+34,Male,Diploma's,10,4,23.99908348,97,26,Moderate,Not Potential
+44,Female,Bachelor's,11,5,14.96697426,88,47,Moderate,Not Potential
+41,Female,Bachelor's,0,2,19.46955822,94,87,Moderate,Not Potential
+34,Female,Diploma's,10,3,8.976997834,40,61,Moderate,Not Potential
+43,Female,Bachelor's,14,3,45.27797218,80,43,Aggressive,Potential
+49,Female,Bachelor's,12,3,1.500520528,46,18,Aggressive,Potential
+30,Male,Bachelor's,14,1,45.12045932,93,58,Moderate,Not Potential
+50,Female,Master's,4,4,29.58394392,53,7,Aggressive,Potential
+35,Female,Bachelor's,13,2,17.58289221,54,54,Moderate,Not Potential
+48,Female,Bachelor's,3,1,37.15285627,94,46,Moderate,Not Potential
+36,Female,Bachelor's,8,4,26.38760759,18,1,Conservative,Not Potential
+45,Female,Bachelor's,14,4,25.95543291,61,93,Moderate,Not Potential
+23,Male,Bachelor's,8,2,6.507114146,98,93,Aggressive,Potential
+20,Male,Bachelor's,14,2,20.4758013,92,38,Aggressive,Potential
+27,Male,Master's,13,2,13.05321729,58,44,Conservative,Not Potential
+36,Female,Bachelor's,4,1,1.78479528,64,31,Aggressive,Potential
+22,Male,Bachelor's,9,5,19.00498154,67,64,Moderate,Not Potential
+48,Male,Master's,3,2,5.491106471,27,37,Moderate,Not Potential
+39,Female,Bachelor's,6,5,13.84150189,17,76,Moderate,Not Potential
+34,Female,Bachelor's,14,1,5.625831059,25,10,Moderate,Not Potential
+34,Female,Bachelor's,5,5,6.047081278,18,9,Moderate,Not Potential
+50,Male,Diploma's,3,3,10.95056472,54,58,Conservative,Not Potential
+43,Male,Master's,12,5,50.99246222,56,89,Aggressive,Potential
+41,Female,Master's,12,2,1.109207143,5,54,Conservative,Not Potential
+33,Female,PhD,14,1,32.93363181,0,19,Moderate,Not Potential
+45,Male,Bachelor's,9,2,8.062184901,7,80,Conservative,Not Potential
+47,Male,Bachelor's,1,3,47.03140684,96,16,Aggressive,Not Potential
+42,Female,Diploma's,0,2,5.681644667,50,67,Aggressive,Not Potential
+33,Female,Bachelor's,3,2,48.75315936,84,4,Conservative,Not Potential
+43,Male,Bachelor's,3,2,31.54631937,87,59,Conservative,Not Potential
+21,Female,PhD,12,4,1.063403846,24,22,Moderate,Not Potential
+32,Male,Bachelor's,0,3,45.7003599,46,45,Moderate,Not Potential
+45,Male,Bachelor's,5,2,27.08559007,54,51,Conservative,Not Potential
+33,Male,Bachelor's,3,2,14.13348677,63,9,Aggressive,Not Potential
+46,Male,Bachelor's,0,2,39.36395888,82,45,Moderate,Not Potential
+43,Female,Bachelor's,0,1,47.33327769,92,27,Conservative,Not Potential
+38,Female,Master's,14,4,25.18454116,9,96,Moderate,Not Potential
+26,Male,Bachelor's,12,1,16.77767372,55,42,Moderate,Not Potential
+22,Male,Master's,0,4,40.4472562,11,25,Moderate,Not Potential
+34,Male,Bachelor's,7,2,35.08927489,32,54,Moderate,Not Potential
+42,Male,Master's,9,3,45.43762419,70,47,Aggressive,Potential
+33,Male,Master's,7,5,35.62570064,16,28,Conservative,Not Potential
+30,Female,Bachelor's,1,5,13.17641694,60,26,Moderate,Not Potential
+34,Female,Bachelor's,10,2,47.58296249,9,17,Conservative,Not Potential
+47,Female,PhD,12,1,6.24178736,30,59,Conservative,Not Potential
+32,Female,Bachelor's,6,3,14.39713751,59,73,Aggressive,Potential
+37,Male,PhD,13,4,27.00973039,69,68,Aggressive,Potential
+45,Male,Diploma's,7,2,29.2871013,16,73,Moderate,Not Potential
+25,Male,Bachelor's,7,3,1.765529331,49,20,Moderate,Not Potential
+22,Male,Master's,10,3,40.02863629,36,23,Moderate,Not Potential
+38,Male,PhD,9,4,19.08036592,81,2,Moderate,Potential
+34,Female,Bachelor's,14,3,21.32092705,61,94,Moderate,Not Potential
+44,Male,Master's,10,1,41.46847722,89,61,Aggressive,Potential
+42,Female,Bachelor's,12,1,19.96416959,79,100,Moderate,Not Potential
+24,Female,Diploma's,6,1,3.361243825,71,1,Moderate,Not Potential
+47,Female,Bachelor's,4,3,9.821988524,87,65,Moderate,Not Potential
+29,Female,Bachelor's,0,1,48.79515862,76,41,Aggressive,Not Potential
+26,Male,PhD,11,4,4.52026812,28,33,Moderate,Not Potential
+44,Female,Bachelor's,8,3,18.74656005,31,41,Aggressive,Potential
+36,Female,Bachelor's,12,5,26.15895835,87,19,Moderate,Not Potential
+26,Female,Diploma's,15,3,25.66404137,79,96,Moderate,Not Potential
+41,Male,Bachelor's,6,4,1.197997151,10,67,Aggressive,Potential
+45,Male,Bachelor's,1,5,26.05813657,95,44,Moderate,Not Potential
+49,Male,Master's,5,3,20.1886229,5,74,Moderate,Not Potential
+31,Female,Bachelor's,1,1,49.60396677,34,41,Aggressive,Not Potential
+44,Female,PhD,14,2,8.9579542,32,46,Aggressive,Potential
+36,Male,PhD,0,2,18.70770984,17,4,Conservative,Not Potential
+32,Female,Bachelor's,13,1,21.97407425,36,88,Moderate,Not Potential
+39,Male,PhD,6,2,20.53467686,12,48,Conservative,Not Potential
+44,Male,Master's,12,2,34.29154138,73,36,Moderate,Not Potential
+23,Female,Bachelor's,15,1,11.77564288,100,33,Moderate,Not Potential
+29,Female,Diploma's,1,1,12.05357764,89,72,Moderate,Not Potential
+22,Female,Bachelor's,12,3,37.46054743,80,69,Moderate,Not Potential
+28,Female,Bachelor's,13,3,26.01452593,63,17,Aggressive,Potential
+32,Male,Master's,13,1,21.7577838,0,77,Moderate,Potential
+37,Male,Bachelor's,1,4,9.460152584,62,18,Moderate,Not Potential
+34,Male,Master's,12,2,10.37636115,88,77,Aggressive,Potential
+23,Male,Bachelor's,10,3,1.527581841,33,39,Aggressive,Not Potential
+34,Male,Diploma's,4,2,5.571313443,9,16,Aggressive,Not Potential
+41,Female,PhD,13,5,28.84193473,83,59,Moderate,Not Potential
+21,Male,Bachelor's,4,1,45.5936565,6,98,Moderate,Not Potential
+34,Male,Bachelor's,15,4,15.35823826,55,92,Conservative,Potential
+27,Male,Bachelor's,6,5,17.38736129,79,41,Aggressive,Potential
+27,Female,Diploma's,0,5,6.780280531,36,80,Aggressive,Not Potential
+36,Female,Bachelor's,7,5,20.43154728,28,71,Moderate,Not Potential
+31,Female,Bachelor's,2,1,2.861085228,11,64,Conservative,Not Potential
+38,Female,Bachelor's,3,3,46.88003481,16,52,Aggressive,Not Potential
+29,Male,PhD,14,1,34.65556741,47,99,Moderate,Potential
+28,Male,Bachelor's,8,3,50.53744047,83,6,Moderate,Not Potential
+24,Female,Bachelor's,3,5,45.14115813,25,4,Aggressive,Not Potential
+25,Female,Bachelor's,9,5,24.64952968,82,23,Moderate,Not Potential
+39,Male,PhD,11,4,26.98425156,11,27,Aggressive,Potential
+45,Male,Diploma's,14,3,10.52880233,20,61,Conservative,Not Potential
+21,Female,Bachelor's,4,5,24.10196714,41,16,Moderate,Not Potential
+46,Female,Diploma's,6,2,46.15139367,60,100,Moderate,Not Potential
+43,Female,Diploma's,15,4,3.542671182,57,19,Moderate,Not Potential
+46,Female,Master's,3,1,44.17784015,53,2,Moderate,Not Potential
+32,Male,Master's,13,4,18.04739008,33,36,Moderate,Not Potential
+25,Male,Bachelor's,0,2,45.97563825,6,89,Aggressive,Potential
+24,Male,Bachelor's,8,3,48.04399532,34,14,Moderate,Not Potential
+44,Female,Bachelor's,3,1,34.54324435,14,50,Aggressive,Not Potential
+20,Female,PhD,8,1,34.22118933,64,47,Moderate,Not Potential
+40,Male,PhD,5,3,23.63771689,89,7,Aggressive,Potential
+41,Male,Bachelor's,14,4,42.77701123,98,12,Moderate,Not Potential
+40,Male,Master's,0,5,49.08063792,24,47,Aggressive,Not Potential
+25,Male,Master's,11,4,39.75409002,58,2,Conservative,Not Potential
+25,Female,Bachelor's,2,2,32.09683669,78,64,Moderate,Not Potential
+42,Male,Bachelor's,10,5,31.33964479,85,72,Moderate,Not Potential
+35,Male,Bachelor's,1,4,43.47349508,5,30,Conservative,Not Potential
+23,Male,Master's,15,3,28.06018829,51,25,Moderate,Not Potential
+49,Male,PhD,8,2,41.19299431,78,80,Conservative,Potential
+30,Male,Master's,15,2,26.44426276,87,55,Aggressive,Potential
+49,Male,Master's,14,2,4.122213749,20,33,Moderate,Not Potential
+49,Male,Bachelor's,11,5,20.19735045,70,8,Moderate,Not Potential
+49,Female,Master's,0,1,23.22204788,92,61,Conservative,Not Potential
+50,Female,Master's,12,5,8.080862249,95,12,Aggressive,Potential
+43,Female,Bachelor's,13,4,6.124816459,31,68,Conservative,Not Potential
+42,Female,Bachelor's,8,1,27.77324748,52,40,Moderate,Not Potential
+28,Male,Master's,8,4,5.257181828,58,76,Conservative,Potential
+42,Female,Diploma's,7,1,16.14725839,68,0,Moderate,Not Potential
+22,Female,Master's,7,5,38.2298488,61,88,Aggressive,Potential
+38,Male,Diploma's,10,2,49.22160898,3,46,Conservative,Not Potential
+50,Male,Bachelor's,13,3,36.89352903,85,3,Conservative,Not Potential
+27,Female,Master's,11,2,50.63127742,17,99,Moderate,Not Potential
+24,Female,Bachelor's,0,5,35.91689856,98,62,Aggressive,Potential
+23,Male,Bachelor's,10,1,15.68972353,80,51,Aggressive,Potential
+43,Female,Bachelor's,7,2,34.60262703,55,9,Moderate,Not Potential
+50,Male,Master's,9,5,36.10783826,23,27,Aggressive,Potential
+25,Male,Diploma's,13,4,19.58634923,65,5,Moderate,Not Potential
+21,Male,PhD,2,3,1.88569253,12,26,Moderate,Not Potential
+39,Male,Diploma's,10,2,36.15998924,61,11,Moderate,Not Potential
+47,Female,PhD,6,1,2.085004764,53,61,Aggressive,Potential
+30,Male,PhD,10,4,32.5594039,14,51,Moderate,Not Potential
+23,Male,Bachelor's,14,5,9.180824437,68,47,Moderate,Not Potential
+34,Female,Bachelor's,0,3,29.28017639,2,66,Moderate,Not Potential
+25,Male,Bachelor's,0,1,26.19565127,36,45,Moderate,Not Potential
+41,Female,Bachelor's,15,5,1.675682115,36,96,Moderate,Not Potential
+36,Female,Diploma's,9,5,19.14329085,100,73,Moderate,Potential
+49,Female,Diploma's,12,2,31.05455837,2,94,Conservative,Not Potential
+43,Male,Diploma's,4,2,43.43032759,62,14,Moderate,Not Potential
+25,Female,Bachelor's,4,1,45.43210569,34,70,Conservative,Not Potential
+38,Female,Bachelor's,7,5,25.1924985,51,35,Moderate,Not Potential
+49,Male,Bachelor's,6,2,37.42112436,86,13,Moderate,Not Potential
+44,Female,PhD,7,3,16.82272883,27,77,Aggressive,Potential
+21,Female,Bachelor's,5,3,18.10932029,93,2,Moderate,Not Potential
+34,Female,Bachelor's,5,5,10.72317596,17,66,Moderate,Not Potential
+30,Female,Bachelor's,1,2,29.0974055,35,85,Aggressive,Potential
+27,Female,Master's,5,1,16.72820755,32,18,Moderate,Not Potential
+45,Male,PhD,4,1,5.218544822,63,98,Aggressive,Potential
+38,Female,Master's,12,1,35.25030433,25,75,Moderate,Not Potential
+32,Female,PhD,15,3,36.38766038,47,53,Moderate,Not Potential
+31,Male,Diploma's,2,2,18.99962094,39,68,Moderate,Not Potential
+24,Male,Master's,5,2,4.836169973,16,9,Conservative,Not Potential
+25,Male,Master's,7,3,22.31488587,39,32,Moderate,Not Potential
+45,Female,Bachelor's,8,1,23.1167729,6,12,Moderate,Not Potential
+41,Male,PhD,0,1,34.43354424,56,98,Moderate,Not Potential
+23,Female,Diploma's,2,5,16.77081956,7,50,Conservative,Not Potential
+38,Female,Bachelor's,2,4,35.12996399,55,31,Moderate,Not Potential
+39,Male,Bachelor's,10,2,44.57442709,30,74,Moderate,Not Potential
+20,Male,Bachelor's,7,2,12.87430212,58,23,Aggressive,Potential
+39,Female,Master's,0,2,49.94597781,57,34,Moderate,Not Potential
+36,Male,Bachelor's,4,4,20.31840686,11,82,Aggressive,Not Potential
+31,Female,Bachelor's,2,5,14.36293426,47,69,Moderate,Not Potential
+34,Male,Bachelor's,1,4,22.07555913,30,39,Conservative,Not Potential
+20,Male,Master's,14,1,5.719873795,82,53,Moderate,Potential
+45,Male,Diploma's,7,1,7.285295326,62,43,Moderate,Not Potential
+33,Female,Bachelor's,2,2,21.72170235,73,61,Moderate,Not Potential
+25,Male,PhD,6,3,39.1222261,38,98,Moderate,Not Potential
+24,Female,Master's,11,2,46.01561198,75,67,Moderate,Potential
+49,Female,Bachelor's,10,3,34.24089954,19,32,Moderate,Not Potential
+30,Female,Master's,0,4,6.260977762,100,76,Aggressive,Potential
+50,Female,Master's,5,1,34.60098811,47,55,Aggressive,Not Potential
+23,Male,Master's,2,3,32.77139604,70,35,Moderate,Not Potential
+32,Female,Bachelor's,7,4,41.28819591,53,53,Moderate,Not Potential
+30,Female,Bachelor's,5,1,42.26243333,77,18,Aggressive,Not Potential
+22,Male,Bachelor's,11,3,44.41015379,74,42,Moderate,Not Potential
+20,Female,Bachelor's,1,2,21.70657573,70,11,Aggressive,Potential
+25,Male,Bachelor's,5,2,35.89321977,28,10,Aggressive,Not Potential
+37,Female,Diploma's,6,2,14.41251795,73,69,Moderate,Not Potential
+43,Male,Bachelor's,4,4,50.966814,92,11,Moderate,Not Potential
+29,Female,Bachelor's,2,2,9.766712069,72,90,Moderate,Not Potential
+24,Male,Bachelor's,3,5,1.505721583,99,40,Moderate,Not Potential
+42,Female,Master's,3,1,8.440435726,47,24,Conservative,Not Potential
+29,Female,Bachelor's,5,4,39.79361448,73,2,Moderate,Not Potential
+31,Male,Diploma's,9,2,23.33918383,82,2,Aggressive,Potential
+21,Male,Master's,0,1,23.37501239,55,83,Moderate,Not Potential
+32,Male,Diploma's,10,3,48.75114598,94,27,Aggressive,Potential
+27,Male,Master's,3,2,46.9817454,16,22,Conservative,Not Potential
+21,Female,Master's,9,1,16.55973689,8,47,Aggressive,Potential
+39,Female,Bachelor's,12,5,11.45290644,96,66,Moderate,Not Potential
+20,Male,Master's,3,3,43.4241105,33,41,Aggressive,Potential
+50,Female,Bachelor's,9,5,46.30095355,44,87,Conservative,Not Potential
+24,Male,Bachelor's,15,1,28.07984614,87,39,Moderate,Not Potential
+28,Male,Diploma's,0,5,32.47118556,8,5,Conservative,Not Potential
+36,Female,Bachelor's,8,1,13.84571423,6,19,Aggressive,Not Potential
+28,Female,PhD,3,1,41.0401344,15,10,Aggressive,Potential
+30,Female,Bachelor's,6,5,32.60612142,18,95,Aggressive,Potential
+34,Female,Bachelor's,11,1,26.17567556,5,26,Conservative,Not Potential
+43,Female,Bachelor's,13,2,4.005427804,10,20,Conservative,Not Potential
+25,Female,Bachelor's,2,1,46.79674813,75,12,Aggressive,Potential
+42,Female,Diploma's,9,4,31.77257102,60,85,Aggressive,Potential
+22,Male,Bachelor's,11,1,10.63455473,41,34,Moderate,Not Potential
+49,Male,Master's,2,4,31.31930585,12,46,Aggressive,Not Potential
+50,Male,Bachelor's,13,1,34.87316771,11,85,Aggressive,Potential
+36,Male,Bachelor's,7,1,27.28851683,84,27,Aggressive,Potential
+24,Male,Diploma's,7,5,36.9050869,73,20,Aggressive,Potential
+49,Female,Bachelor's,10,2,30.0726974,19,17,Aggressive,Potential
+47,Male,Master's,11,2,48.3884791,49,30,Aggressive,Not Potential
+31,Male,Diploma's,0,3,3.68485393,35,59,Moderate,Potential
+37,Male,Diploma's,9,5,6.312285423,91,36,Conservative,Potential
+33,Male,Bachelor's,1,5,9.683581848,87,20,Moderate,Potential
+40,Male,Master's,15,2,35.50855353,68,13,Moderate,Not Potential
+43,Male,Bachelor's,7,5,33.27979364,36,88,Aggressive,Potential
+30,Male,Bachelor's,0,2,45.60294301,11,90,Moderate,Potential
+28,Female,Master's,14,5,37.64387264,98,59,Moderate,Potential
+21,Female,Bachelor's,11,1,26.41777438,39,22,Moderate,Not Potential
+31,Male,Master's,7,2,50.59158962,53,94,Aggressive,Potential
+22,Female,Master's,7,2,14.30539781,1,28,Conservative,Not Potential
+22,Female,Bachelor's,15,4,42.65958299,49,46,Aggressive,Not Potential
+20,Female,Bachelor's,1,5,22.33951861,40,29,Moderate,Not Potential
+27,Female,Diploma's,3,5,33.43675694,44,89,Conservative,Not Potential
+41,Male,Bachelor's,5,2,37.36342352,8,83,Moderate,Potential
+47,Female,PhD,11,1,32.68770436,61,37,Moderate,Not Potential
+48,Female,Bachelor's,10,1,8.025365155,85,82,Conservative,Not Potential
+27,Female,Bachelor's,8,1,23.14755054,46,26,Moderate,Potential
+30,Male,Master's,14,5,29.0719189,4,88,Aggressive,Not Potential
+28,Male,Bachelor's,15,4,43.45218796,75,86,Conservative,Not Potential
+24,Male,Diploma's,7,2,23.18228744,0,92,Aggressive,Not Potential
+33,Male,Bachelor's,11,3,46.93736524,43,14,Conservative,Not Potential
+47,Male,Bachelor's,14,4,23.01871115,21,58,Aggressive,Not Potential
+49,Male,Master's,7,3,28.43899296,37,2,Moderate,Not Potential
+22,Male,Diploma's,6,4,40.81428415,18,9,Moderate,Potential
+40,Female,Bachelor's,13,1,30.15338422,79,78,Conservative,Potential
+24,Female,Bachelor's,12,5,49.01090362,30,79,Moderate,Potential
+24,Female,Bachelor's,8,3,34.01679153,66,16,Aggressive,Potential
+38,Male,Bachelor's,14,4,27.1354727,86,82,Moderate,Not Potential
+46,Male,Bachelor's,1,5,2.179598389,41,10,Aggressive,Not Potential
+33,Male,Bachelor's,2,3,21.68664488,81,47,Moderate,Not Potential
+45,Male,PhD,9,2,15.96242096,25,4,Conservative,Potential
+49,Male,Bachelor's,7,4,38.40528339,12,68,Moderate,Potential
+23,Female,Diploma's,13,2,11.41388376,57,63,Moderate,Not Potential
+44,Female,Bachelor's,5,1,11.26100436,17,13,Aggressive,Not Potential
+32,Male,Master's,9,2,10.47595216,66,49,Moderate,Potential
+29,Male,Master's,8,2,7.280780658,86,25,Moderate,Potential
+44,Male,Diploma's,9,4,16.55035018,2,71,Moderate,Potential
+37,Male,PhD,3,1,45.29610572,54,68,Aggressive,Potential
+27,Female,Bachelor's,15,2,39.74642362,88,6,Moderate,Not Potential
+27,Male,Diploma's,7,5,37.76256082,90,15,Aggressive,Potential
+26,Male,Diploma's,9,3,40.86684028,57,54,Moderate,Potential
+27,Male,Diploma's,2,2,14.47089447,62,77,Aggressive,Not Potential
+33,Male,Master's,2,1,45.37208454,90,100,Conservative,Not Potential
+38,Female,Diploma's,7,2,7.865168757,51,55,Aggressive,Not Potential
+48,Male,Diploma's,4,3,17.81728634,88,3,Moderate,Potential
+25,Male,Master's,2,1,30.33740595,23,99,Aggressive,Potential
+20,Female,Bachelor's,9,4,6.145254417,71,47,Moderate,Potential
+42,Female,Diploma's,10,1,37.50650939,8,16,Moderate,Potential
+50,Female,Diploma's,15,4,20.36230241,36,35,Moderate,Not Potential
+34,Male,Diploma's,0,1,40.22028328,93,69,Aggressive,Not Potential
+20,Male,Bachelor's,14,3,25.64481428,82,79,Moderate,Potential
+44,Female,Bachelor's,2,3,10.04372622,52,92,Aggressive,Potential
+36,Female,Diploma's,11,1,37.73809057,79,99,Aggressive,Potential
+20,Female,Diploma's,8,2,13.60719779,23,37,Moderate,Not Potential
+34,Female,Master's,4,3,25.54051506,20,100,Aggressive,Potential
+42,Female,Bachelor's,11,4,4.776663458,99,61,Aggressive,Not Potential
+21,Female,Bachelor's,9,4,31.89333272,39,47,Conservative,Potential
+33,Male,Bachelor's,14,5,34.29288831,61,9,Conservative,Not Potential
+40,Male,Bachelor's,1,4,19.9337105,69,35,Moderate,Not Potential
+27,Male,Bachelor's,6,5,48.72113902,68,28,Aggressive,Potential
+27,Female,Bachelor's,14,1,44.70844607,13,77,Aggressive,Not Potential
+38,Female,Bachelor's,1,1,36.39704579,41,3,Moderate,Not Potential
+26,Female,PhD,3,1,36.68260372,49,43,Aggressive,Potential
+38,Female,Diploma's,11,2,13.62008575,60,55,Conservative,Not Potential
+25,Female,Master's,6,2,33.84076155,3,41,Aggressive,Potential
+25,Female,Diploma's,3,5,10.91031326,71,99,Conservative,Not Potential
+22,Male,Master's,6,4,8.200161196,87,12,Moderate,Not Potential
+26,Male,Bachelor's,15,4,50.97339471,74,45,Moderate,Not Potential
+38,Female,Master's,6,1,32.11879657,16,81,Aggressive,Not Potential
+27,Male,Diploma's,15,3,22.54939363,84,32,Conservative,Potential
+29,Female,Bachelor's,0,2,15.40822614,56,20,Aggressive,Potential
+39,Male,Bachelor's,5,2,31.19602218,89,79,Moderate,Potential
+34,Female,Master's,8,1,3.479675411,47,78,Conservative,Not Potential
+34,Female,Bachelor's,1,2,5.734049525,43,56,Aggressive,Not Potential
+48,Male,Bachelor's,13,1,2.642834887,44,68,Moderate,Potential
+20,Male,Bachelor's,2,5,25.95849166,90,69,Moderate,Potential
+39,Female,Bachelor's,9,4,31.03033146,79,66,Moderate,Potential
+49,Female,Bachelor's,4,3,4.123988068,89,47,Moderate,Potential
+26,Male,Diploma's,8,4,37.06122337,32,75,Moderate,Not Potential
+46,Male,PhD,3,4,12.51975358,30,99,Moderate,Potential
+23,Female,Master's,0,5,35.26007269,46,32,Moderate,Not Potential
+48,Male,PhD,3,2,50.094857,5,35,Moderate,Potential
+25,Female,Bachelor's,5,3,35.5552935,71,32,Aggressive,Not Potential
+44,Female,Master's,4,2,45.15965265,70,30,Conservative,Potential
+20,Female,Master's,13,4,48.40992534,33,20,Conservative,Potential
+48,Female,Bachelor's,12,1,25.33755242,52,26,Moderate,Not Potential
+24,Male,Bachelor's,0,4,36.11624897,13,90,Moderate,Not Potential
+46,Male,Bachelor's,3,2,43.59846268,15,71,Moderate,Potential
+42,Male,Master's,5,4,18.83044564,42,100,Moderate,Not Potential
+20,Male,Bachelor's,12,1,14.06986583,72,61,Moderate,Potential
+49,Male,Diploma's,14,5,48.32992864,73,95,Aggressive,Not Potential
+23,Male,Bachelor's,9,2,37.31517502,80,25,Moderate,Potential
+41,Male,PhD,9,4,11.98410667,11,65,Aggressive,Potential
+21,Female,Master's,13,2,23.45416963,69,11,Aggressive,Potential
+29,Male,PhD,3,5,40.82258848,18,21,Moderate,Potential
+24,Male,Bachelor's,14,4,28.35314955,40,16,Moderate,Potential
+46,Female,Bachelor's,13,4,33.49760491,52,6,Moderate,Potential
+29,Male,Diploma's,8,2,38.6884101,28,67,Moderate,Potential
+20,Male,Diploma's,4,2,32.10045944,69,36,Conservative,Potential
+41,Female,Diploma's,7,1,28.0039661,58,37,Moderate,Not Potential
+25,Male,Bachelor's,8,5,38.48071422,88,95,Moderate,Not Potential
+32,Male,Diploma's,9,1,37.37815177,63,10,Aggressive,Not Potential
+50,Male,Bachelor's,4,4,32.49362001,23,0,Aggressive,Potential
+34,Female,PhD,5,2,18.98947067,88,24,Moderate,Potential
+23,Male,Bachelor's,0,4,21.29060461,15,41,Moderate,Potential
+32,Male,Master's,10,4,49.52192744,51,51,Moderate,Not Potential
+43,Female,Bachelor's,15,3,6.619296615,79,23,Moderate,Not Potential
+39,Male,Bachelor's,11,3,14.42524586,5,52,Moderate,Not Potential
+43,Female,Bachelor's,14,4,25.62008796,36,55,Aggressive,Not Potential
+34,Female,Diploma's,6,2,42.83648431,84,62,Aggressive,Not Potential
+48,Male,Bachelor's,3,4,9.183783186,3,80,Conservative,Potential
+27,Female,Bachelor's,10,3,14.84773091,97,7,Moderate,Not Potential
+24,Female,Diploma's,1,2,4.28991089,91,58,Aggressive,Potential
+48,Male,Bachelor's,4,4,36.2992633,37,44,Moderate,Potential
+34,Female,Bachelor's,11,5,12.91047177,40,26,Moderate,Potential
