@@ -27,7 +27,7 @@ The objectives of Specura are:
 
 ## 🧠 Dataset & Features
 
-The dataset used was sourced from Kaggle: [ML for HR: Employee Recruitment Modeling](https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data?utm_source=chatgpt.com)
+The dataset used was sourced from Kaggle: [ML for HR: Employee Recruitment Modeling](https://www.kaggle.com/datasets/rabieelkharoua/predicting-hiring-decisions-in-recruitment-data)
 
 Total records: **1,500 samples**  
 Target variable: `Decision` (0 = Not Potential, 1 = Potential)
