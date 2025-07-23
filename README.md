@@ -72,9 +72,57 @@ Target variable: `Decision` (0 = Not Potential, 1 = Potential)
 
 ---
 
-## 📊 Result & Evaluation
 
-- **Recall (Class 1 / Potential Candidate)**: 87%
-- **Precision (Class 1)**: 62%
-- **Confusion Matrix**:
+- **Key Insight**:
+  - Model is very strong in identifying **non-potential** candidates (94% precision on class 0)
+  - Needs improvement in **precision** for potential candidates (62%)
+
+📈 *Model deployed via Streamlit with a user-friendly interface to input candidate profiles and display predictions.*
+
+---
+
+## ✅ Conclusion
+
+Specura successfully achieves its goal to:
+- Optimize recruitment workflow
+- Reduce subjective decision-making
+- Recommend best-fit candidates based on ML insights
+
+With 81% model accuracy, Specura is a promising step toward **fairer, faster, and smarter** hiring.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is a prototype built for academic purposes. The data and model performance are subject to further development. For real-world deployment, additional validation, larger datasets, and fairness auditing are recommended.
+
+---
+
+## 🚀 Live Demo
+
+🖥️ [Streamlit Application (Insert Link Here)](https://your-streamlit-app-link)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: 2110631140106@student.unsika.ac.id  
+- 💼 LinkedIn: [Radif Ramadan](https://www.linkedin.com/in/your-link)  
+- 📸 Instagram: [@radif.ramadan](https://instagram.com/your-handle)
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📁 Repository Structure
+
 
