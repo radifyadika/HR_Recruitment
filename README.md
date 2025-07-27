@@ -55,6 +55,15 @@ Target variable: `Decision` (0 = Not Potential, 1 = Potential)
 📝 *Note: “RecruitmentStrategy” was excluded from modeling due to low relevance.*
 
 ---
+
+## 🚀 Model Interface: HR Recruitment
+<p align="center"> <img src="assets/interface_1.png" alt="Specura UI Preview 1" width="550"/><br> <em>Figure 1. Candidate Not Potential.</em> </p> <p align="center"> <img src="assets/interface_2.png" alt="Specura UI Preview 2" width="550"/><br> <em>Figure 2. Candidate Potential.</em> </p>
+
+*Try the Specura AI application live via Streamlit:*
+
+👉 🔗 [Launch Specura Streamlit App](https://specura.streamlit.app/)
+
+---
 ## ✅ Conclusion
 
 Specura successfully achieves its goal to:
@@ -71,19 +80,10 @@ With 81% model accuracy, Specura is a promising step toward **fairer, faster, an
 This project is a prototype built for academic purposes. The data and model performance are subject to further development. For real-world deployment, additional validation, larger datasets, and fairness auditing are recommended.
 
 ---
-
-## 🚀 Model Interface: HR Recruitment
-<p align="center"> <img src="assets/interface_1.png" alt="Specura UI Preview 1" width="550"/><br> <em>Figure 1. Candidate Not Potential.</em> </p> <p align="center"> <img src="assets/interface_2.png" alt="Specura UI Preview 2" width="550"/><br> <em>Figure 2. Candidate Potential.</em> </p>
-
-Try the Specura AI application live via Streamlit:
-👉 🔗 [Launch Specura Streamlit App](https://specura.streamlit.app/)
-
----
-
 ## 📬 Contact Me
 
 - 📧 Email: [Radif Ramadan](mailto:radiframadhan@gmail.com)   
 - 💼 LinkedIn: [Radif Ramadan](https://www.linkedin.com/in/radiframadan/)  
 - 📸 Instagram: [@radifyadika](https://www.instagram.com/radifyadika_/)
 
-⭐ *If you found this project helpful, feel free to star ⭐ the repo and connect with me!*
+*If you found this project helpful, feel free to star ⭐ the repo and connect with me!*
