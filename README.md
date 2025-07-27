@@ -55,40 +55,6 @@ Target variable: `Decision` (0 = Not Potential, 1 = Potential)
 📝 *Note: “RecruitmentStrategy” was excluded from modeling due to low relevance.*
 
 ---
-
-## 🏗️ Modelling
-
-- **Algorithm**: Logistic Regression
-- **Preprocessing**:
-  - Handling missing values
-  - Encoding categorical variables
-  - Feature selection via correlation analysis
-- **Evaluation**:
-  - Confusion Matrix
-  - Classification Report
-  - 5-Fold Cross Validation
-
-| Fold | Accuracy (%) |
-|------|--------------|
-| 1    | 82.62        |
-| 2    | 83.23        |
-| 3    | 82.01        |
-| 4    | 81.09        |
-| 5    | 85.36        |
-
-✅ **Best Accuracy** after tuning: **81%**
-
----
-
-
-- **Key Insight**:
-  - Model is very strong in identifying **non-potential** candidates (94% precision on class 0)
-  - Needs improvement in **precision** for potential candidates (62%)
-
-📈 *Model deployed via Streamlit with a user-friendly interface to input candidate profiles and display predictions.*
-
----
-
 ## ✅ Conclusion
 
 Specura successfully achieves its goal to:
@@ -106,31 +72,18 @@ This project is a prototype built for academic purposes. The data and model perf
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Model Interface: HR Recruitment
+<p align="center"> <img src="assets/interface_1.png" alt="Specura UI Preview 1" width="550"/><br> <em>Figure 1. Candidate Not Potential.</em> </p> <p align="center"> <img src="assets/interface_2.png" alt="Specura UI Preview 2" width="550"/><br> <em>Figure 2. Candidate Potential.</em> </p>
 
-🖥️ [Streamlit Application (Insert Link Here)](https://your-streamlit-app-link)
+Try the Specura AI application live via Streamlit:
+👉 🔗 [Launch Specura Streamlit App](https://specura.streamlit.app/)
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: 2110631140106@student.unsika.ac.id  
-- 💼 LinkedIn: [Radif Ramadan](https://www.linkedin.com/in/your-link)  
-- 📸 Instagram: [@radif.ramadan](https://instagram.com/your-handle)
+- 📧 Email: [Radif Ramadan](mailto:radiframadhan@gmail.com)   
+- 💼 LinkedIn: [Radif Ramadan](https://www.linkedin.com/in/radiframadan/)  
+- 📸 Instagram: [@radifyadika](https://www.instagram.com/radifyadika_/)
 
----
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📁 Repository Structure
-
-
+⭐ *If you found this project helpful, feel free to star ⭐ the repo and connect with me!*
