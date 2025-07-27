@@ -4,6 +4,13 @@ Welcome to **Specura**, an AI-powered recruitment solution designed to streamlin
 
 ---
 
+## 🧠 Research Flow
+
+Flowchart for Developing a Machine Learning Model for Employee Recruitment
+
+![Research Flow](./assets/Research%20flow.png)
+
+---
 ## 📌 Problem Statement
 
 In the digital era, manual recruitment is no longer efficient—it's slow, biased, and costly. With hundreds of applicants per job posting, HR departments face difficulty filtering candidates objectively and effectively. The challenge is to design a system that:
